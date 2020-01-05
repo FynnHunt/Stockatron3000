@@ -1,0 +1,884 @@
+Company: Barclays PLC (BARC), Announcement: Total Voting Rights, Movement: +2.92%
+Company: British Land Co PLC (BLND), Announcement: Total Voting Rights, Movement: -1.22%
+Company: British Land Co PLC (BLND), Announcement: Convertible Bond Exchange Price Adjustment, Movement: -1.22%
+Company: Caspian Sunrise plc (CASP), Announcement: Price Monitoring Extension, Movement: 10.75
+Company: Caspian Sunrise plc (CASP), Announcement: Second Price Monitoring Extn, Movement: 10.75
+Company: Caspian Sunrise plc (CASP), Announcement: Price Monitoring Extension, Movement: 10.75
+Company: Caspian Sunrise plc (CASP), Announcement: Second Price Monitoring Extn, Movement: 10.75
+Company: Caspian Sunrise plc (CASP), Announcement: Price Monitoring Extension, Movement: 10.75
+Company: Caspian Sunrise plc (CASP), Announcement: BNG Success at Deep Well A5, Movement: 10.75
+Company: Eve Sleep plc (EVE), Announcement: Holding in Company, Movement: +35.14%
+Company: Eve Sleep plc (EVE), Announcement: Holding in Company, Movement: +35.14%
+Company: Hochschild MiningPLC (HOC), Announcement: Director/PDMR Shareholding, Movement: -2.51%
+Company: Hochschild MiningPLC (HOC), Announcement: Total Voting Rights, Movement: -2.51%
+Company: IP Group PLC (IPO), Announcement: Oxford Nanopore completes £109.5m financing, Movement: +5.21%
+Company: Lekoil Limited (LEK), Announcement: Second Price Monitoring Extn, Movement: +59.14%
+Company: Lekoil Limited (LEK), Announcement: Price Monitoring Extension, Movement: +59.14%
+Company: Lekoil Limited (LEK), Announcement: OPL 310 Appraisal Funding Secured, Movement: +59.14%
+Company: Meggitt PLC (MGGT), Announcement: Total Voting Rights, Movement: -0.69%
+Company: NextEnergy SolFnd Ld (NESF), Announcement: Director/PDMR Shareholding, Movement: -0.88%
+Company: NextEnergy SolFnd Ld (NESF), Announcement: Total Voting Rights, Movement: -0.88%
+Company: Ocado Group PLC (OCDO), Announcement: Total Voting Rights, Movement: -0.76%
+Company: Richland Resources (RLD), Announcement: Completion of Disposal of Capricorn Sapphire, Movement: -17.24%
+Company: Smiths Group PLC (SMIN), Announcement: Total Voting Rights, Movement: +2.36%
+Company: Tasty PLC (TAST), Announcement: Property Disposal and Trading Update, Movement: +41.03%
+Company: TUI AG, Announcement: Announcement  of the Convening of the General Meeting in Hannover on 11.02.2020 according to article 121 AktG (German Stock Companies Act) with the objective of Europe-wide distribution, Movement: +3.07%
+Company: Tullow Oil PLC (TLW), Announcement: Total Voting Rights, Movement: -9.00%
+Company: Tullow Oil PLC (TLW), Announcement: Carapa-1 well result, Movement: -9.00%
+
+
+
+Company: 3i Group PLC (III), Announcement: Directorate Change, Movement: N/A
+Company: 888 Holdings plc (888), Announcement: Total Voting Rights, Movement: N/A
+Company: AA PLC (AA.), Announcement: Total Voting Rights, Movement: N/A
+Company: AB Financial Product (IRSH), Announcement: Notice of Automatic Early Redemption, Movement: N/A
+Company: ABCAM PLC (ABC), Announcement: Total Voting Rights, Movement: N/A
+Company: ABCAM PLC (ABC), Announcement: Transaction complete between Abcam and Expedeon, Movement: N/A
+Company: Aberdeen Asian IncFd (AAIF), Announcement: Total Voting Rights, Movement: N/A
+Company: Aberdeen Diversified (ADIG), Announcement: Total Voting Rights, Movement: N/A
+Company: Aberdeen Diversified (ADIG), Announcement: Transaction in Own Shares, Movement: N/A
+Company: Aberdeen Japan IT (AJIT), Announcement: Total Voting Rights, Movement: N/A
+Company: Aberdeen Latin (ALAI), Announcement: Total Voting Rights, Movement: N/A
+Company: Aberdeen New Dawn IT (ABD), Announcement: Total Voting Rights, Movement: N/A
+Company: Aberdeen New India (ANII), Announcement: Block listing Interim Review, Movement: N/A
+Company: Aberdeen New India (ANII), Announcement: Total Voting Rights, Movement: N/A
+Company: Aberdeen New Thai IT (ANW), Announcement: Total Voting Rights, Movement: N/A
+Company: Aberdeen Stand. Asia (AAS), Announcement: Total Voting Rights, Movement: N/A
+Company: Aberforth Smaller Co (ASL), Announcement: Statement re Closed Period Update, Movement: N/A
+Company: AberforthSplit Level (ASIT), Announcement: Statement re Closed Period Update, Movement: N/A
+Company: Accesso Technology (ACSO), Announcement: Total Voting Rights, Movement: N/A
+Company: ACIS CLO 2014-3 (IRSH), Announcement: Notice to Holders, Movement: N/A
+Company: ACIS CLO 2014-4 (IRSH), Announcement: Notice to Holders, Movement: N/A
+Company: ACIS CLO 2015-6 (IRSH), Announcement: Notice to Holders, Movement: N/A
+Company: Acorn Income Fund (AIF), Announcement: Director Declaration, Movement: N/A
+Company: Adage Capital Prtnrs, Announcement: Form 8.3 - Allergan plc, Movement: N/A
+Company: ADES Intnl Holding (ADES), Announcement: Transaction in Own Shares, Movement: N/A
+Company: Adnams PLC (ADB), Announcement: Director/PDMR Shareholding, Movement: N/A
+Company: Adnams PLC (ADB), Announcement: Holding(s) in Company, Movement: N/A
+Company: Ahold Delhaize, Announcement: Ahold Delhaize commences 2020 share buyback program, Movement: N/A
+Company: AIM, Announcement: AIM Notice - 02/01/2020, Movement: N/A
+Company: AIM, Announcement: Suspension - Attis Oil and Gas Ltd, Movement: N/A
+Company: AIM, Announcement: Suspension - Nektan Plc, Movement: N/A
+Company: AIM, Announcement: Suspension - KCR Residential REIT Plc, Movement: N/A
+Company: AIM, Announcement: Suspension - Pantheon Resources plc, Movement: N/A
+Company: AIM, Announcement: Suspension - Mobile Streams Plc, Movement: N/A
+Company: AIM, Announcement: Cancellation - Amphion Innovations plc, Movement: N/A
+Company: Alien Metals Limited (UFO), Announcement: Price Monitoring Extension, Movement: N/A
+Company: Alliance Pharma PLC (APH), Announcement: NOTIFICATION OF MAJOR HOLDINGS, Movement: N/A
+Company: Allied Minds (ALM), Announcement: Total Voting Rights, Movement: N/A
+Company: Almea 2 Sg Portfolio, Announcement: AbbVie Inc. 38.5b, Movement: N/A
+Company: Amiad Water Systems (AFS), Announcement: PDMR Exercise of Options, Issue of Equity and TVR, Movement: N/A
+Company: Anglo African O&G (AAOG), Announcement: Revised Proposal from Jub Capital, Movement: N/A
+Company: Anglo American PLC (AAL), Announcement: Total Voting Rights, Movement: N/A
+Company: APG Asset Management, Announcement: Form 8.3 - Centamin PLC, Movement: N/A
+Company: AQR Capital Mgmt, Announcement: Form 8.3 - ENDEAVOUR MINING CORPORATION, Movement: N/A
+Company: Arden Partners plc (ARDN), Announcement: Form 8.5 (EPT/NON-RI), Movement: N/A
+Company: Argo Blockchain PLC (ARB), Announcement: Second Price Monitoring Extn, Movement: N/A
+Company: Argo Blockchain PLC (ARB), Announcement: Price Monitoring Extension, Movement: N/A
+Company: Argo Blockchain PLC (ARB), Announcement: Board Appointment and New Hardware, Movement: N/A
+Company: Ariana Resources PLC (AAU), Announcement: Director/PDMR Shareholding, Movement: N/A
+Company: Arisaig Asia Cons Fd (IRSH), Announcement: Changes to Fees, Movement: N/A
+Company: Ascential PLC (ASCL), Announcement: Total Voting Rights, Movement: N/A
+Company: Ashtead Group PLC (AHT), Announcement: Cancellation of Treasury Shares, Movement: N/A
+Company: Asia Dragon Trust (DGN), Announcement: Total Voting Rights, Movement: N/A
+Company: Asia Dragon Trust (DGN), Announcement: Transaction in Own Shares, Movement: N/A
+Company: ASM International NV, Announcement: ASM INTERNATIONAL RECEIVES SUPPLIER EXCELLENCE AWARD FROM TSMC, Movement: N/A
+Company: ASOS PLC (ASC), Announcement: Total Voting Rights, Movement: N/A
+Company: AstraZeneca PLC (AZN), Announcement: Total Voting Rights, Movement: N/A
+Company: Atlas Mara Limited (ATMA), Announcement: Proposed Transaction Update and Notice of AGM, Movement: N/A
+Company: Attis Oil and GasLtd (AOGL), Announcement: Statement re. Suspension, Movement: N/A
+Company: Aurora Investment (ARR), Announcement: Total Voting Rights, Movement: N/A
+Company: Auto Trader Grp (AUTO), Announcement: Total Voting Rights, Movement: N/A
+Company: AVEVA Group PLC (AVV), Announcement: Total Voting Rights, Movement: N/A
+Company: AVI Japan Opport.Tst (AJOT), Announcement: Total Voting Rights, Movement: N/A
+Company: Aviva PLC (AV.), Announcement: Form 8.3 - Redx Pharma plc, Movement: N/A
+Company: Avon Rubber PLC (AVON), Announcement: Holding(s) in Company, Movement: N/A
+Company: Avon Rubber PLC (AVON), Announcement: Acquisition Update, Movement: N/A
+Company: AXA Investment Managers SA, Announcement: Form 8.3 - AXA INVESTMENT MANAGERS: Redx Pharma PLC, Movement: N/A
+Company: Axel Springer SE, Announcement: Release according to Article 40, Section 1 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution, Movement: N/A
+Company: Baillie Gifford US (USA), Announcement: Total Voting Rights, Movement: N/A
+Company: Bango PLC (BGO), Announcement: Total Voting Rights, Movement: N/A
+Company: Bank of Georgia Grp (BGEO), Announcement: Director/PDMR Shareholding, Movement: N/A
+Company: Bank of New York Mellon, Announcement: Early Repurchase(s), Movement: N/A
+Company: Bank of Nova Scotia (0UKI), Announcement: Form 8.3 - Sophos Group plc, Movement: N/A
+Company: Bank of Nova Scotia (0UKI), Announcement: Form 8.5 (EPT/NON-RI) - Centamin plc, Movement: N/A
+Company: Bank of Nova Scotia (0UKI), Announcement: Form 8.3 - Sophos Group plc, Movement: N/A
+Company: Bank of Nova Scotia (0UKI), Announcement: Form 8.3 - Sophos Group plc, Movement: N/A
+Company: Bank of NY Mel Corp, Announcement: Form 8.3 - AbbVie Inc., Movement: N/A
+Company: Bank of NY Mel Corp, Announcement: Form 8.3 - AbbVie Inc., Movement: N/A
+Company: Bankers Investment (BNKR), Announcement: Issue of Equity, Movement: N/A
+Company: Bankers Investment (BNKR), Announcement: Total Voting Rights, Movement: N/A
+Company: BARCLAYS PLC (0QCV), Announcement: FORM 8.3 - ABBVIE PLC, Movement: N/A
+Company: BARCLAYS PLC (0QCV), Announcement: FORM 8.3 - ABBVIE PLC, Movement: N/A
+Company: BARCLAYS PLC (0RJE), Announcement: FORM 8.3 TAKEAWAY.COM NV, Movement: N/A
+Company: BARCLAYS PLC (0RJE), Announcement: Form 8.3 - TAKEAWAY.COM NV, Movement: N/A
+Company: BARCLAYS PLC (0Y7T), Announcement: FORM 8.3 - ALLERGAN PLC, Movement: N/A
+Company: BARCLAYS PLC (0Y7T), Announcement: FORM 8.3 - ALLERGAN PLC, Movement: N/A
+Company: BARCLAYS PLC (AMER), Announcement: FORM 8.3 - AMERISUR RESOURCES PLC, Movement: N/A
+Company: BARCLAYS PLC (AMER), Announcement: Form 8.3 - AMERISUR RESOURCES PLC, Movement: N/A
+Company: BARCLAYS PLC (COB), Announcement: Form 8.3 - COBHAM PLC, Movement: N/A
+Company: BARCLAYS PLC (COB), Announcement: FORM 8.3 - COBHAM PLC, Movement: N/A
+Company: BARCLAYS PLC (CSRT), Announcement: Form 8.3 - CONSORT MEDICAL PLC, Movement: N/A
+Company: BARCLAYS PLC (CSRT), Announcement: FORM 8.3 - CONSORT MEDICAL PLC, Movement: N/A
+Company: BARCLAYS PLC (CTR), Announcement: Form 8.3 - Charles Taylor plc, Movement: N/A
+Company: BARCLAYS PLC (EIG), Announcement: FORM 8.5 (EPT/NON-RI) - EI GROUP PLC, Movement: N/A
+Company: BARCLAYS PLC (EIGÂ), Announcement: FORM 8.5 (EPT/NON-RI) - REDDE PLC, Movement: N/A
+Company: BARCLAYS PLC (EIGÂ), Announcement: FORM 8.5 (EPT/NON-RI) - EI GROUP PLC, Movement: N/A
+Company: BARCLAYS PLC (JE.), Announcement: Form 8.3 - JUST EAT PLC, Movement: N/A
+Company: BARCLAYS PLC (JE.), Announcement: Form 8.3 - JUST EAT PLC, Movement: N/A
+Company: BARCLAYS PLC (NTG), Announcement: FORM 8.5 (EPT/NON-RI) - NORTHGATE PLC, Movement: N/A
+Company: BARCLAYS PLC (NTG), Announcement: FORM 8.5 (EPT/NON-RI) - NORTHGATE PLC, Movement: N/A
+Company: BARCLAYS PLC (REDD), Announcement: FORM 8.5 (EPT/NON-RI) - REDDE PLC, Movement: N/A
+Company: BARCLAYS PLC (SOPH), Announcement: Form 8.3 - SOPHOS GROUP PLC, Movement: N/A
+Company: BARCLAYS PLC (SOPH), Announcement: FORM 8.3 - SOPHOS GROUP PLC, Movement: N/A
+Company: Baronsmead Second VT (BMD), Announcement: Total Voting Rights, Movement: N/A
+Company: Baronsmead Venture (BVT), Announcement: Total Voting Rights, Movement: N/A
+Company: Barr(A.G.) PLC (BAG), Announcement: Transaction in Own Shares, Movement: N/A
+Company: Barratt Developments (BDEV), Announcement: Total Voting Rights, Movement: N/A
+Company: Barrick Gold Corp (0R22), Announcement: Post offer intention statement, Movement: N/A
+Company: Bastei Lübbe AG, Announcement: Correction of a release from 02/01/2020 according to Article 40, Section 1 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution, Movement: N/A
+Company: Bayer Aktiengesellschaft, Announcement: Release according to Article 40, Section 1 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution, Movement: N/A
+Company: Beazley PLC (BEZ), Announcement: Total Voting Rights, Movement: N/A
+Company: Bellway PLC (BWY), Announcement: Total Voting Rights, Movement: N/A
+Company: Berkeley Grp Hlds (BKG), Announcement: Total Voting Rights, Movement: N/A
+Company: BH Global Limited (BHGG), Announcement: Transparency Report, Movement: N/A
+Company: BH Macro Limited (BHMG), Announcement: Transparency Report, Movement: N/A
+Company: BH Macro Limited (BHMG), Announcement: Conversion of Securities, Movement: N/A
+Company: BIOPAC Systems, Inc., Announcement: New Eye Tracking Glasses Bring Real-world Data to Academic Research, Movement: N/A
+Company: Biotech Grw Tst PLC (BIOG), Announcement: Total Voting Rights, Movement: N/A
+Company: BkofA Merrill Lynch, Announcement: Form 8.3 - Ei Group plc, Movement: N/A
+Company: BkofA Merrill Lynch, Announcement: Form 8.5 (EPT/RI), Movement: N/A
+Company: BkofA Merrill Lynch, Announcement: Form 38.5 (a) - Allergan PLC, Movement: N/A
+Company: BkofA Merrill Lynch, Announcement: Form 8.5 (EPT/NON-RI), Movement: N/A
+Company: BkofA Merrill Lynch, Announcement: Form 8.5 (EPT/RI), Movement: N/A
+Company: BkofA Merrill Lynch, Announcement: Form 8.5 (EPT/NON-RI), Movement: N/A
+Company: BkofA Merrill Lynch, Announcement: Form 38.5 (b) - Allergan PLC, Movement: N/A
+Company: BkofA Merrill Lynch, Announcement: Form 38.5 (b) - Allergan PLC, Movement: N/A
+Company: BkofA Merrill Lynch, Announcement: Form 38.5 (a) - Allergan PLC, Movement: N/A
+Company: BkofA Merrill Lynch, Announcement: Form 8.5 (EPT/NON-RI), Movement: N/A
+Company: BkofA Merrill Lynch, Announcement: Form 38.5 (b) - AbbVie Inc, Movement: N/A
+Company: BkofA Merrill Lynch, Announcement: Form 38.5 (b) - AbbVie Inc, Movement: N/A
+Company: BkofA Merrill Lynch, Announcement: Form 8.5 (EPT/RI), Movement: N/A
+Company: BkofA Merrill Lynch, Announcement: Form 8.5 (EPT/RI), Movement: N/A
+Company: BL Superstores Fin. (49JD), Announcement: Bond Calculations, Movement: N/A
+Company: BlackRock Energy and Resources (BERI), Announcement: Total Voting Rights, Movement: N/A
+Company: BlackRock Frontiers (BRFI), Announcement: Issue of Equity, Movement: N/A
+Company: BlackRock Frontiers (BRFI), Announcement: Portfolio Update, Movement: N/A
+Company: BlackRock Frontiers (BRFI), Announcement: Total Voting Rights, Movement: N/A
+Company: BlackRock Group, Announcement: Form 8.3 - Sophos Group PLC, Movement: N/A
+Company: BlackRock Group, Announcement: Form 8.3 - Redde plc, Movement: N/A
+Company: BlackRock Group, Announcement: Form 8.3 - Just Eat plc, Movement: N/A
+Company: BlackRock Group, Announcement: Form 8.3 - Endeavour Mining Corp, Movement: N/A
+Company: BlackRock Group, Announcement: Form 8.3 - Centamin plc, Movement: N/A
+Company: BlackRock Group, Announcement: Form 8.3 - Allergan PLC, Movement: N/A
+Company: BlackRock Group, Announcement: Form 8.3 - AbbVie Inc., Movement: N/A
+Company: BlackRock Grtr Eur (BRGE), Announcement: Total Voting Rights, Movement: N/A
+Company: BlackRock Income (BRIG), Announcement: Total Voting Rights, Movement: N/A
+Company: BlackRock Latin Am (BRLA), Announcement: Total Voting Rights, Movement: N/A
+Company: BlackRock Latin Am (BRLA), Announcement: Dividend Declaration, Movement: N/A
+Company: BlackRock North Amer (BRNA), Announcement: Total Voting Rights, Movement: N/A
+Company: BlackRock Smll Cos (BRSC), Announcement: Total Voting Rights, Movement: N/A
+Company: BlackRock Throg Tst (THRG), Announcement: Total Voting Rights, Movement: N/A
+Company: BlackRock World Mng (BRWM), Announcement: Total Voting Rights, Movement: N/A
+Company: Bluefield Solar Inco (BSIF), Announcement: Total Voting Rights, Movement: N/A
+Company: BMO Cap & Inc InvTst (BCI), Announcement: Block listing Interim Review, Movement: N/A
+Company: BMO Cap & Inc InvTst (BCI), Announcement: Total Voting Rights, Movement: N/A
+Company: BMO Capital Markets, Announcement: Form 8.5 (EPT/NON-RI), Movement: N/A
+Company: BMO Global Smlr Cos (BGSC), Announcement: Block listing Interim Review, Movement: N/A
+Company: BMO Global Smlr Cos (BGSC), Announcement: Total Voting Rights, Movement: N/A
+Company: BMO Mgd Ptfo Tst PLC (BMPG), Announcement: Issue of Equity, Movement: N/A
+Company: BMO Mgd Ptfo Tst PLC (BMPG), Announcement: Total Voting Rights, Movement: N/A
+Company: BMO Mgd Ptfo Tst. (BMPI), Announcement: Issue of Equity, Movement: N/A
+Company: BMO Mgd Ptfo Tst. (BMPI), Announcement: Total Voting Rights, Movement: N/A
+Company: BMO Real Estate Investments Lt (BREI), Announcement: Block listing Six Monthly Return, Movement: N/A
+Company: BP PLC (BP.), Announcement: Total Voting Rights, Movement: N/A
+Company: Brewin Dolphin Hldgs (BRW), Announcement: Total Voting Rights, Movement: N/A
+Company: British Am. Tobacco (BATS), Announcement: Block listing Interim Review, Movement: N/A
+Company: British Am. Tobacco (BATS), Announcement: Total Voting Rights, Movement: N/A
+Company: Britvic plc (BVIC), Announcement: Total Voting Rights, Movement: N/A
+Company: Broadgate Financing (85QW), Announcement: Bond Calculations, Movement: N/A
+Company: Bunzl PLC (BNZL), Announcement: Total Voting Rights, Movement: N/A
+Company: Burberry Group PLC (BRBY), Announcement: Total Voting Rights, Movement: N/A
+Company: Burberry Group PLC (BRBY), Announcement: Transaction in Own Shares, Movement: N/A
+Company: CADOGAN Sq CLO II BV (IRSH), Announcement: Delisting Notice, Movement: N/A
+Company: Cadogan Sq CLO III (IRSH), Announcement: Delisting Notice, Movement: N/A
+Company: Cadogan SquareCLO IV (IRSH), Announcement: Delisting Notice, Movement: N/A
+Company: Cairn Homes plc (CRN), Announcement: Transaction in Own Shares, Movement: N/A
+Company: Caledonia Inv PLC (CLDN), Announcement: Block listing Interim Review, Movement: N/A
+Company: CantorFitzgeraldEuro, Announcement: Form 8.5 (EPT/RI), Movement: N/A
+Company: Capita PLC (CPI), Announcement: Blocklisting - Interim Review, Movement: N/A
+Company: Capita PLC (CPI), Announcement: Total Voting Rights, Movement: N/A
+Company: Capital & Regional (CAL), Announcement: Director Shareholding, Movement: N/A
+Company: Capital Gearing Tst (CGT), Announcement: Issue of Equity, Movement: N/A
+Company: Capital Gearing Tst (CGT), Announcement: Total Voting Rights, Movement: N/A
+Company: Carclo plc (CAR), Announcement: Suspension of share listing, Movement: N/A
+Company: Carlson Cap L.P. (0RJE), Announcement: Form 8.3 - Takeaway.com N.V., Movement: N/A
+Company: Carlson Cap L.P. (JE.), Announcement: Form 8.3 - Just Eat plc, Movement: N/A
+Company: Cat Rock Capital Mgt, Announcement: Form 8.3 - Takeaway.com N.V., Movement: N/A
+Company: Charles Taylor (CTR), Announcement: Total Voting Rights, Movement: N/A
+Company: Chenavari Toro IncFd (TORO), Announcement: Factsheet Available - November 2019, Movement: N/A
+Company: Citadel Group, Announcement: Form 8.3 - Takeaway.com N.V., Movement: N/A
+Company: Citadel Group, Announcement: Form 8.3 - Just Eat plc, Movement: N/A
+Company: Citadel Group, Announcement: Form 8.3 - Endeavour Mining Corporation, Movement: N/A
+Company: Citadel Group, Announcement: Form 8.3 - Centamin plc, Movement: N/A
+Company: Citadel Group, Announcement: Form 8.3 - Allergan plc, Movement: N/A
+Company: Citigroup Global Mkt, Announcement: Form 8.5 (EPT/RI), Movement: N/A
+Company: City Merchants HYT (CMHY), Announcement: Issue of Equity, Movement: N/A
+Company: City Merchants HYT (CMHY), Announcement: Statement re Inside Information, Movement: N/A
+Company: City of London IT (CTY), Announcement: Total Voting Rights, Movement: N/A
+Company: Civitas Soc Hous PLC (CSH), Announcement: Total Voting Rights, Movement: N/A
+Company: Clarkson PLC (CKN), Announcement: Total Voting Rights, Movement: N/A
+Company: Cleantech Building Materials, Announcement: Cleantech Building Materials: Grant of Option, Movement: N/A
+Company: Coats Group PLC (COA), Announcement: Total Voting Rights, Movement: N/A
+Company: Cobham PLC (COB), Announcement: Block listing Interim Review, Movement: N/A
+Company: Coca-Cola Euro Ptrns (CCEP), Announcement: Total Voting Rights, Movement: N/A
+Company: Codemasters Grp Hldg (CDM), Announcement: Total Voting Rights, Movement: N/A
+Company: Compass Group PLC (CPG), Announcement: Total Voting Rights, Movement: N/A
+Company: Competition and Mkts, Announcement: Merger Update: Platinum/Wesco, Movement: N/A
+Company: Cora Gold Limited (CORA), Announcement: Directorate Change, Movement: N/A
+Company: Costain Group PLC (COST), Announcement: Block listing Six Monthly Return, Movement: N/A
+Company: CQS New City HighYld (NCYF), Announcement: Total Voting Rights, Movement: N/A
+Company: Cranswick PLC (CWK), Announcement: Total Voting Rights, Movement: N/A
+Company: Craven House Capital (CRV), Announcement: Portfolio and NAV update, Movement: N/A
+Company: Credit Industriel (60JJ), Announcement: Form 8.3 - Takeaway.com N.V., Movement: N/A
+Company: Credit Industriel (60JJ), Announcement: Form 8.3 - Just Eat plc, Movement: N/A
+Company: Credit Suisse (Eur), Announcement: Form 8.5 (EPT/NON-RI) Cobham plc, Movement: N/A
+Company: Credit Suisse (Eur), Announcement: Form 8.5 (EPT/RI) Cobham plc, Movement: N/A
+Company: CRH PLC (CRH), Announcement: CRH Chairman Transition and Board Retirement, Movement: N/A
+Company: Crystal Amber Fund (CRS), Announcement: Total Voting Rights, Movement: N/A
+Company: CVC Credit Partners (CCPG), Announcement: March 2020 Tender - Quarterly Restriction, Movement: N/A
+Company: CVS Group plc (CVSG), Announcement: Holding(s) in Company, Movement: N/A
+Company: D E Shaw & Co LP, Announcement: Form 8.3 - Allergan plc, Movement: N/A
+Company: Datang Intnl Pwr Gen (DAT), Announcement: Performance of Guarantee Obligations Announcement, Movement: N/A
+Company: DB ETC Index PLC, Announcement: Value per Security of ETC Securities Announcement, Movement: N/A
+Company: DB ETC Index PLC, Announcement: Buy-Back of Securities, Movement: N/A
+Company: DB ETC Index PLC, Announcement: Value per Security, Movement: N/A
+Company: DB ETC plc, Announcement: Value per Security of ETC Securities, Movement: N/A
+Company: DB ETC plc, Announcement: Issuance of Securities, Movement: N/A
+Company: DB ETC plc, Announcement: Value per Security, Movement: N/A
+Company: DB ETC plc, Announcement: Issuance of Securities, Movement: N/A
+Company: DB ETC plc (OXA2), Announcement: Buy-Back of Securities, Movement: N/A
+Company: dbinvestor Sol 2 (IRSH), Announcement: Election of Home Member State, Movement: N/A
+Company: dbinvestor Solutions (IRSH), Announcement: Election of Home Member State, Movement: N/A
+Company: De La Rue PLC (DLAR), Announcement: Block listing Interim Review, Movement: N/A
+Company: De La Rue PLC (DLAR), Announcement: Total Voting Rights, Movement: N/A
+Company: DECO 2014-Tulip DAC (IRSH), Announcement: Election of Home Member State, Movement: N/A
+Company: Deco 2015-HARP DAC (IRSH), Announcement: Election of Home Member State, Movement: N/A
+Company: Deco 7 - Pan Europe (IRSH), Announcement: Election of Home Member State, Movement: N/A
+Company: Deco 9-Pan Europe 3 (IRSH), Announcement: Election of Home Member State, Movement: N/A
+Company: Defenx plc (DFX), Announcement: Notification of Interest re Exit Opportunity, Movement: N/A
+Company: Dekania Eur CDO III (IRSH), Announcement: Election of Home Member State, Movement: N/A
+Company: Deutsche Bank AG (0H7D), Announcement: Form 8.5 (EPT/RI) Ei Group plc, Movement: N/A
+Company: Deutsche Lufthansa AG, Announcement: Release according to Article 40, Section 1 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution, Movement: N/A
+Company: Deutsche Lufthansa AG, Announcement: Release according to Article 40, Section 1 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution, Movement: N/A
+Company: DFS Furniture PLC (DFS), Announcement: Transaction in Own Shares, Movement: N/A
+Company: DFS Furniture PLC (DFS), Announcement: Total Voting Rights, Movement: N/A
+Company: Diageo PLC (DGE), Announcement: Block listing Interim Review, Movement: N/A
+Company: Diageo PLC (DGE), Announcement: Total Voting Rights, Movement: N/A
+Company: Direct Line Ins Grp (DLG), Announcement: Total Voting Rights, Movement: N/A
+Company: Distil PLC (DIS), Announcement: Holding(s) in Company, Movement: N/A
+Company: Diversified Gas &Oil (DGOC), Announcement: Transaction in Own Shares, Movement: N/A
+Company: Diversified Gas &Oil (DGOC), Announcement: Transaction in Own Shares, Movement: N/A
+Company: Dixons Carphone PLC (DC.), Announcement: Total Voting Rights, Movement: N/A
+Company: DNO ASA, Announcement: DNO ASA: Mandatory Notification of Trade, Movement: N/A
+Company: Domino's Pizza Grp (DOM), Announcement: Total Voting Rights, Movement: N/A
+Company: Downing One VCT Plc (DDV1), Announcement: Total voting rights, Movement: N/A
+Company: Dozens Savings PLC (DS01), Announcement: Admission to NEX Exchange Growth Market, Movement: N/A
+Company: Drax Group Plc (DRX), Announcement: Total Voting Rights, Movement: N/A
+Company: Dunelm Group plc (DNLM), Announcement: Holding(s) in Company, Movement: N/A
+Company: DWF Group PLC (DWF), Announcement: Total Voting Rights, Movement: N/A
+Company: e-Therapeutics plc (ETX), Announcement: Director/PDMR Shareholding, Movement: N/A
+Company: Ebiquity PLC (EBQ), Announcement: Holding(s) in Company, Movement: N/A
+Company: EBRD (60UO), Announcement: Early Redemption(s), Movement: N/A
+Company: EcoVista PLC (EVTP), Announcement: Suspension of Trading, Movement: N/A
+Company: EcoVista PLC (EVTP), Announcement: Resignation Corporate Adviser, Movement: N/A
+Company: Edentree InvMg Ld, Announcement: Form 8.3 - Harwood Wealth Management PLC, Movement: N/A
+Company: Ei Group plc (EIG), Announcement: Holding(s) in Company, Movement: N/A
+Company: Ei Group plc (EIG), Announcement: Holding(s) in Company, Movement: N/A
+Company: Eirles Two DAC (IRSH), Announcement: Election of Home Member State, Movement: N/A
+Company: Electrocomponents (ECM), Announcement: Total Voting Rights, Movement: N/A
+Company: Elementis PLC (ELM), Announcement: Total Voting Rights, Movement: N/A
+Company: Elenia Finance Oyj (91VA), Announcement: Change of the Managing Director of Elenia Palvelut, Movement: N/A
+Company: EnTrust Permal Abslt (IRSH), Announcement: Annual Report 31.07.2019, Movement: N/A
+Company: EP Global Opps Tst (EPG), Announcement: Total Voting Rights, Movement: N/A
+Company: EQTEC PLC (EQT), Announcement: North Fork Project Financial Close, Movement: N/A
+Company: Ergomed plc (ERGO), Announcement: Total Voting Rights & Block Listing Return, Movement: N/A
+Company: Escher Marwick PLC (IRSH), Announcement: Escher Marwick Plc Coupon Announcement, Movement: N/A
+Company: Essentra plc (ESNT), Announcement: Total Voting Rights, Movement: N/A
+Company: Euromax V Abs PLC (IRSH), Announcement: Election of Home Member State, Movement: N/A
+Company: Euromax VI ABS DAC (IRSH), Announcement: Election of Home Member State, Movement: N/A
+Company: Euronext Dublin, Announcement: Euronext Dublin Market Notice, Movement: N/A
+Company: Euronext Dublin, Announcement: GEM Notice, Movement: N/A
+Company: Euronext Dublin, Announcement: GEM Notice, Movement: N/A
+Company: Euronext Dublin, Announcement: Euronext Dublin Market Notice, Movement: N/A
+Company: Euronext Dublin, Announcement: GEM Cancellation Notice, Movement: N/A
+Company: Euronext Dublin, Announcement: Euronext Dublin Market Cancellation Notice, Movement: N/A
+Company: Euronext Dublin, Announcement: Euronext Dublin Market Cancellation Notice, Movement: N/A
+Company: Euronext Dublin, Announcement: Euronext Dublin Market Cancellation Notice, Movement: N/A
+Company: Euronext Dublin, Announcement: Euronext Dublin Market Cancellation Notice, Movement: N/A
+Company: Euronext Dublin, Announcement: Euronext Dublin Market Cancellation Notice, Movement: N/A
+Company: Euronext Dublin, Announcement: Euronext Dublin Market Notice, Movement: N/A
+Company: Euronext Dublin, Announcement: Euronext Dublin Market Notice, Movement: N/A
+Company: Euronext Dublin, Announcement: GEM Notice, Movement: N/A
+Company: Euronext Dublin, Announcement: GEM Cancellation Notice, Movement: N/A
+Company: Euronext Dublin, Announcement: Euronext Dublin Market Cancellation Notice, Movement: N/A
+Company: Euronext Dublin, Announcement: GEM Notice, Movement: N/A
+Company: Euronext Dublin, Announcement: Euronext Dublin Market Notice, Movement: N/A
+Company: Euronext Dublin, Announcement: GEM Notice, Movement: N/A
+Company: Euronext Dublin, Announcement: Euronext Dublin Market Notice, Movement: N/A
+Company: Euronext Dublin, Announcement: Euronext Dublin Market Notice, Movement: N/A
+Company: Euronext Dublin, Announcement: Euronext Dublin Market Suspension Notice, Movement: N/A
+Company: Euronext Dublin, Announcement: Euronext Dublin Market Suspension Notice, Movement: N/A
+Company: Euronext Dublin, Announcement: Euronext Dublin Market Suspension Notice, Movement: N/A
+Company: ExodusPoint Capital (0RJE), Announcement: Form 8.3 - Takeaway.com NV, Movement: N/A
+Company: ExodusPoint Capital (0RJE), Announcement: Form 8.3 - Takeaway.com NV, Movement: N/A
+Company: ExodusPoint Capital (JE.), Announcement: Form 8.3 - Just Eat Plc, Movement: N/A
+Company: ExodusPoint Capital (JE.), Announcement: Form 8.3 - Just Eat Plc, Movement: N/A
+Company: ExodusPoint Capital (JE.), Announcement: Form 8.3 - Just Eat Plc, Movement: N/A
+Company: EZZ Steel Company (AEZD), Announcement: EZZSTEEL REPORTS CONSOLIDATED 9M 2019 RESULTS, Movement: N/A
+Company: F&C Investment Trust (FCIT), Announcement: Portfolio Update, Movement: N/A
+Company: F&C Investment Trust (FCIT), Announcement: Compliance with Market Abuse Regulations, Movement: N/A
+Company: F&C Investment Trust (FCIT), Announcement: Block listing Interim Review, Movement: N/A
+Company: F&C Investment Trust (FCIT), Announcement: Total Voting Rights, Movement: N/A
+Company: Falanx Group Limited (FLX), Announcement: Director/PDMR Shareholding, Movement: N/A
+Company: Farallon Capital Europe LLP (0RJE), Announcement: Form 8.3 - Takeaway.com NV, Movement: N/A
+Company: Farallon Capital Europe LLP (JE.), Announcement: FORM 8.3 - JUST EAT PLC, Movement: N/A
+Company: Fastnet Securities10 (IRSH), Announcement: Election of Home Member State, Movement: N/A
+Company: Fastnet Securities11 (IRSH), Announcement: Election of Home Member State, Movement: N/A
+Company: FDM Group plc (FDM), Announcement: Total Voting Rights, Movement: N/A
+Company: Ferrexpo plc (FXPO), Announcement: Ferrexpo Special Interim Dividend, Movement: N/A
+Company: Fidelity China (FCSS), Announcement: Total Voting Rights, Movement: N/A
+Company: Fidelity European (FEV), Announcement: Total Voting Rights, Movement: N/A
+Company: Fidelity Japan Trust (FJV), Announcement: Total Voting Rights, Movement: N/A
+Company: Fidelity Special Val (FSV), Announcement: Issue of Equity, Movement: N/A
+Company: Fidelity Special Val (FSV), Announcement: Total Voting Rights, Movement: N/A
+Company: FIL Limited, Announcement: Form 8.3 - Allergan Plc, Movement: N/A
+Company: FIL Limited, Announcement: Form 8.3 - Abbvie Inc, Movement: N/A
+Company: FIL Limited, Announcement: Form 8.3 - Abbvie Inc, Movement: N/A
+Company: FIL Limited, Announcement: Form 8.3 - Allergan Plc, Movement: N/A
+Company: Filtronic PLC (FTC), Announcement: Completion Of Sale Of Telecoms Antenna Business, Movement: N/A
+Company: FinEx Funds plc (IRSH), Announcement: Net Asset Value, Movement: N/A
+Company: Fins Growth Inc Tst (FGT), Announcement: Total Voting Rights, Movement: N/A
+Company: Finsbury Food Group (FIF), Announcement: Holding(s) in Company, Movement: N/A
+Company: FirstGroup PLC (FGP), Announcement: Total Voting Rights, Movement: N/A
+Company: Fisher (James) (FSJ), Announcement: Total Voting Rights, Movement: N/A
+Company: Flutter Entertainmnt (FLTR), Announcement: Total Voting Rights, Movement: N/A
+Company: Forterra plc (FORT), Announcement: Company Secretary Change, Movement: N/A
+Company: Forterra plc (FORT), Announcement: Holding(s) in Company, Movement: N/A
+Company: Forterra plc (FORT), Announcement: Holding(s) in Company, Movement: N/A
+Company: Franchise Brands PLC (FRAN), Announcement: Share Repurchase Programme, Movement: N/A
+Company: FranklinResourcesInc, Announcement: Form 8.3 - Allergan plc, Movement: N/A
+Company: FranklinResourcesInc, Announcement: Form 8.3 - Allergan plc, Movement: N/A
+Company: Fuller, Smith & Turner PLC (FSTA), Announcement: Fullers Smith & Turner PLC: Treasury Stock, Movement: N/A
+Company: Fundsmith Emerging (FEET), Announcement: Total Voting Rights, Movement: N/A
+Company: Future PLC (FUTR), Announcement: Block listing Interim Review, Movement: N/A
+Company: Future PLC (FUTR), Announcement: Total Voting Rights, Movement: N/A
+Company: G3 Exploration Ltd (G3E), Announcement: Corporate Update, Movement: N/A
+Company: Galliford Try PLC (GFRD), Announcement: Total Voting Rights, Movement: N/A
+Company: Galliford Try PLC (GFRD), Announcement: Share Exchange Ratio & Listing Application Details, Movement: N/A
+Company: Gamesys Group PLC (GYS), Announcement: Block Listing Return, Movement: N/A
+Company: Gamesys Group PLC (GYS), Announcement: Total Voting Rights, Movement: N/A
+Company: GCP Student Living (DIGS), Announcement: Total Voting Rights, Movement: N/A
+Company: Genus (GNS), Announcement: Total Voting Rights, Movement: N/A
+Company: Georgia Capital PLC (CGEO), Announcement: Holding(s) in Company, Movement: N/A
+Company: Georgia Capital PLC (CGEO), Announcement: Total Voting Rights, Movement: N/A
+Company: Georgia Capital PLC (CGEO), Announcement: Director/PDMR Shareholding, Movement: N/A
+Company: Georgia Capital PLC (CGEO), Announcement: Director/PDMR Shareholding, Movement: N/A
+Company: Georgia Capital PLC (CGEO), Announcement: Director/PDMR Shareholding, Movement: N/A
+Company: Georgia Healthcare (GHG), Announcement: Director/PDMR Shareholding, Movement: N/A
+Company: GIC Private Limited (IRSH), Announcement: Form 8.3 - Allergan plc, Movement: N/A
+Company: GlaxoSmithKline PLC (GSK), Announcement: Total Voting Rights, Movement: N/A
+Company: Go-Ahead Group PLC (GOG), Announcement: Block listing Interim Review, Movement: N/A
+Company: Goldman Sachs (EPT), Announcement: Form 8.5 (EPT/RI) - Amendment, Movement: N/A
+Company: Goldman Sachs (EPT), Announcement: Form 8.5 (EPT/RI) - Amendment, Movement: N/A
+Company: Goldman Sachs (EPT), Announcement: Form 8.5 (EPT/RI) - Amendment, Movement: N/A
+Company: Goldman Sachs (EPT), Announcement: Form 8.5 (EPT/RI) - Amendment, Movement: N/A
+Company: Goldman Sachs (EPT), Announcement: Form 8.5 (EPT/RI) - Amendment, Movement: N/A
+Company: Goldman Sachs (EPT), Announcement: Form 8.5 (EPT/RI) - Amendment, Movement: N/A
+Company: Goldman Sachs (EPT), Announcement: Form 8.5 (EPT/RI) - Amendment, Movement: N/A
+Company: Goldman Sachs (EPT), Announcement: Form 8.5 (EPT/RI) - Amendment, Movement: N/A
+Company: Goldman Sachs (EPT), Announcement: Form 8.5 (EPT/RI) - Amendment, Movement: N/A
+Company: Goldman Sachs (EPT), Announcement: Form 8.5 (EPT/RI) - Amendment, Movement: N/A
+Company: Goldman Sachs (EPT), Announcement: Form 8.5 (EPT/RI) - Amendment, Movement: N/A
+Company: Goldman Sachs (EPT), Announcement: Form 8.5 (EPT/RI), Movement: N/A
+Company: Goldman Sachs (EPT), Announcement: Form 8.5 (EPT/RI), Movement: N/A
+Company: Goldman Sachs (EPT), Announcement: Form 8.5 (EPT/RI), Movement: N/A
+Company: Goldman Sachs (EPT), Announcement: Form 8.5 (EPT/RI), Movement: N/A
+Company: Goldman Sachs (EPT), Announcement: Form 8.5 (EPT/RI), Movement: N/A
+Company: Goldman Sachs (EPT), Announcement: Form 8.5 (EPT/RI), Movement: N/A
+Company: Goldman Sachs (EPT), Announcement: Form 8.5 (EPT/RI), Movement: N/A
+Company: Goldman Sachs Group, Announcement: Form 8.3 - Allergan Plc - Amendment, Movement: N/A
+Company: Goldman Sachs Group, Announcement: Form 8.3 - Allergan PLC - Amendment, Movement: N/A
+Company: Goldman Sachs Group, Announcement: Form 8.3 - Allergan Plc, Movement: N/A
+Company: Greencoat Renewables (GRP), Announcement: Total Voting Rights, Movement: N/A
+Company: Greencore Group PLC (GNC), Announcement: Holding(s) in Company, Movement: N/A
+Company: Gresham House Energy (GRID), Announcement: Acquisition of a 49MW battery storage project, Movement: N/A
+Company: Gresham House PLC (GHE), Announcement: Sale of a 49MW grid level battery storage project, Movement: N/A
+Company: Gulf Investment Fund (GIF), Announcement: Quarterly Disclosure, Movement: N/A
+Company: Gulf Keystone Petrol (GKP), Announcement: Transaction in Own Shares, Movement: N/A
+Company: GVC Holdings PLC (GVC), Announcement: Total Voting Rights, Movement: N/A
+Company: GVC Holdings PLC (GVC), Announcement: Notification of Major Holdings, Movement: N/A
+Company: Halcyon ME2007-1 B.V (IRSH), Announcement: Delisting Notice, Movement: N/A
+Company: HalcyonCLO2006-2BV (IRSH), Announcement: Delisting Notice, Movement: N/A
+Company: Hays PLC (HAS), Announcement: Total Voting Rights, Movement: N/A
+Company: HBK Investments LP, Announcement: Form 8.3 - Allergan Plc, Movement: N/A
+Company: Henderson European (HEFT), Announcement: Block listing Interim Review, Movement: N/A
+Company: Henderson Int Income (HINT), Announcement: Issue of Equity, Movement: N/A
+Company: Henderson Int Income (HINT), Announcement: Total Voting Rights, Movement: N/A
+Company: HendersonFarE IncLtd (HFEL), Announcement: Total Voting Rights, Movement: N/A
+Company: HG Capital Trust PLC (HGT), Announcement: Total Voting Rights, Movement: N/A
+Company: HG Capital Trust PLC (HGT), Announcement: Issue of Equity, Movement: N/A
+Company: HICL Infrastrct PLC (HICL), Announcement: Director/PDMR Shareholding, Movement: N/A
+Company: HICL Infrastrct PLC (HICL), Announcement: Director/PDMR Shareholding, Movement: N/A
+Company: HICL Infrastrct PLC (HICL), Announcement: Total Voting Rights, Movement: N/A
+Company: Hikma Pharmaceutical (HIK), Announcement: Total Voting Rights, Movement: N/A
+Company: Hiscox Ltd (HSX), Announcement: Total Voting Rights, Movement: N/A
+Company: Homeserve Plc (HSV), Announcement: Total Voting Rights, Movement: N/A
+Company: Hotel Chocolat Group (HOTC), Announcement: Total Voting Rights, Movement: N/A
+Company: Housing Dev Fin Corp (60CX), Announcement: Updates for quarter ended December 31, 2019, Movement: N/A
+Company: Housing Dev Fin Corp (60CX), Announcement: update on the acquisition of stake - Apollo Munich, Movement: N/A
+Company: Howden Joinery Grp (HWDN), Announcement: Total Voting Rights, Movement: N/A
+Company: HSBC Bank Plc, Announcement: HSBC BANK PLC - Form 8.5 (EPT/RI) - Centamin plc, Movement: N/A
+Company: HydroDec Group plc (HYR), Announcement: Holding(s) in Company, Movement: N/A
+Company: Hyve Group PLC (HYVE), Announcement: Voting rights and capital, Movement: N/A
+Company: i3 Energy PLC (I3E), Announcement: Corporate and Funding Update, Movement: N/A
+Company: IG Group Hldgs plc (IGG), Announcement: Total Voting Rights, Movement: N/A
+Company: Igas Energy PLC (IGAS), Announcement: Holding(s) in Company, Movement: N/A
+Company: Ilika plc (IKA), Announcement: Second Price Monitoring Extn, Movement: N/A
+Company: Ilika plc (IKA), Announcement: Price Monitoring Extension, Movement: N/A
+Company: IMI PLC (IMI), Announcement: Total Voting Rights, Movement: N/A
+Company: Impax Environ Mkts (IEM), Announcement: Second sale of treasury shares, Movement: N/A
+Company: Impax Environ Mkts (IEM), Announcement: Sale of treasury shares, Movement: N/A
+Company: Imperial Brands PLC (IMB), Announcement: Director/PDMR Shareholding, Movement: N/A
+Company: Imperial Brands PLC (IMB), Announcement: Total Voting Rights, Movement: N/A
+Company: Inchcape PLC (INCH), Announcement: Total Voting Rights, Movement: N/A
+Company: Independent Oil &Gas (IOG), Announcement: Grant of Share Options, Movement: N/A
+Company: Indian Railway Fin. (99WX), Announcement: Annual Report for the year 2018-19, Movement: N/A
+Company: Indivior PLC (INDV), Announcement: Total Voting Rights, Movement: N/A
+Company: Indivior PLC (INDV), Announcement: Holding(s) in Company, Movement: N/A
+Company: Infrastructure India (IIP), Announcement: Directorate Change, Movement: N/A
+Company: Inspirata, Inc., Announcement: Experienced Healthcare Leader Oenone Duroe Joins Inspirata as General Manager, Europe, Movement: N/A
+Company: Instone Real Estate Group AG, Announcement: Release according to Article 40, Section 1 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution, Movement: N/A
+Company: Interco. Hotels Grp (IHG), Announcement: Total Voting Rights, Movement: N/A
+Company: Intermediate Capital (ICP), Announcement: ICG: Notification of Transactions of Directors, Movement: N/A
+Company: International PPL (INPP), Announcement: Total Voting Rights, Movement: N/A
+Company: Intertek Group Plc (ITRK), Announcement: Total Voting Rights, Movement: N/A
+Company: INVESCO Asia Trust (IAT), Announcement: Total Voting Rights, Movement: N/A
+Company: Invesco Ltd., Announcement: Invesco Ltd.: Form 8.3 - Endeavour Mining Corp, Movement: N/A
+Company: Invesco Perp Sel Tst, Announcement: Statement re MAR Compliance, Movement: N/A
+Company: Invesco Perp Sel Tst, Announcement: Total Voting Rights, Movement: N/A
+Company: Investec Asset Management Limi, Announcement: Form 8.3 - Centamin Plc, Movement: N/A
+Company: Investec Asset Management Limi, Announcement: Form 8.3 - Endeavour Mining Corporation, Movement: N/A
+Company: Investec Bank plc (INVP), Announcement: Form 8.5 (EPT/RI) - Consort Medical Plc, Movement: N/A
+Company: Iofina PLC (IOF), Announcement: Holding(s) in Company, Movement: N/A
+Company: Iomart Group PLC (IOM), Announcement: Second Price Monitoring Extn, Movement: N/A
+Company: Iomart Group PLC (IOM), Announcement: Price Monitoring Extension, Movement: N/A
+Company: IQGeo Group PLC (IQG), Announcement: Block listing Interim Review, Movement: N/A
+Company: IQGeo Group PLC (IQG), Announcement: Total Voting Rights, Movement: N/A
+Company: ITM Power PLC (ITM), Announcement: HyDeploy in Full Operation, Movement: N/A
+Company: ITV PLC (ITV), Announcement: Director/PDMR Shareholding, Movement: N/A
+Company: J O Hambro Cap.Man., Announcement: Form 8.3 - Northgate Plc, Movement: N/A
+Company: Jangada Mines PLC (JAN), Announcement: New Corporate Presentation, Movement: N/A
+Company: JD Sports Fashion (JD.), Announcement: Corporate Governance Review - Update, Movement: N/A
+Company: JP Morgan Sec LLC, Announcement: AbbVie Inc. 38.5b AMENDMENT, Movement: N/A
+Company: JP Morgan Sec LLC, Announcement: Allergan plc 38.5b, Movement: N/A
+Company: JP Morgan Sec LLC, Announcement: AbbVie Inc. 38.5b, Movement: N/A
+Company: JPMorgan Amer InvTst (JAM), Announcement: Closed Period Notification, Movement: N/A
+Company: JPMorgan Asian Inv (JAI), Announcement: Dividend Declaration, Movement: N/A
+Company: JPMorgan Asset Mngt, Announcement: AbbVie Inc. 8.3, Movement: N/A
+Company: JPMorgan Elect PLC (JPE), Announcement: Transaction in Own Shares, Movement: N/A
+Company: JPMorgan Emerg Mkts (JMG), Announcement: Commencement of Closed Period, Movement: N/A
+Company: JPMorgan Global (JPGI), Announcement: Closed Period Commencement, Movement: N/A
+Company: JPMorgan Jap Smllr (JPS), Announcement: Dividend Declaration, Movement: N/A
+Company: JPMorgan Mid Cap (JMF), Announcement: Closed Period Notification, Movement: N/A
+Company: JPMorgan Sec.Plc, Announcement: Form 8.5 (EPT/RI)- Takeaway.com N.V., Movement: N/A
+Company: JPMorgan Sec.Plc, Announcement: Form 8.5 (EPT/RI)- Redde plc, Movement: N/A
+Company: JPMorgan Sec.Plc, Announcement: Form 8.5 (EPT/RI)- Just Eat plc, Movement: N/A
+Company: JPMorgan Sec.Plc, Announcement: Form 8.5 (EPT/RI)- Sophos Group plc, Movement: N/A
+Company: JPMorgan Sec.Plc, Announcement: Form 8.5 (EPT/RI)- Northgate plc, Movement: N/A
+Company: JPMorgan Sec.Plc, Announcement: Form 8.5 (EPT/RI)- Cobham plc, Movement: N/A
+Company: JPMorganUS Small Cos (JUSC), Announcement: Closed Period Announcement, Movement: N/A
+Company: Jubii Europe N.V., Announcement: Announcement  of the Convening of the General Meeting in Kanzlei der Allen & Overy LLP, Apollolaan 15, 1077 AB Amsterdam, Niederlande on 13.02.2020 according to article 121 AktG (German Stock Companies Act) with the objective of Europe-wide distribution, Movement: N/A
+Company: Judges ScientificPLC (JDG), Announcement: Total Voting Rights, Movement: N/A
+Company: Jupiter UK Growth In (JUKG), Announcement: Compliance with Market Abuse Regulation, Movement: N/A
+Company: Jupiter US Smllr Co. (JUS), Announcement: Compliance with Market Abuse Regulation, Movement: N/A
+Company: Jupiter US Smllr Co. (JUS), Announcement: Block listing Interim Review, Movement: N/A
+Company: Just Eat Plc (JE.), Announcement: Total Voting Rights, Movement: N/A
+Company: Just Group plc (JUST), Announcement: Total Voting Rights, Movement: N/A
+Company: JZ Capital Ptnrs Ltd (JZCP), Announcement: Director Declaration, Movement: N/A
+Company: Keller Group PLC (KLR), Announcement: Blocklisting - Interim Review, Movement: N/A
+Company: Keller Group PLC (KLR), Announcement: Total Voting Rights, Movement: N/A
+Company: Kerry Group PLC (KYGA), Announcement: Total Voting Rights, Movement: N/A
+Company: Keystone IT Plc (KIT), Announcement: Total Voting Rights, Movement: N/A
+Company: Kier Group PLC (KIE), Announcement: Block listing Interim Review, Movement: N/A
+Company: Kingfisher PLC (KGF), Announcement: Total Voting Rights, Movement: N/A
+Company: Kingspan Group PLC (KGP), Announcement: Block listing Interim Review, Movement: N/A
+Company: Kingspan Group PLC (KGP), Announcement: Total Voting Rights, Movement: N/A
+Company: Land Sec. Group PLC (LAND), Announcement: Total Voting Rights, Movement: N/A
+Company: Leaf Clean Energy Co (LEAF), Announcement: Result of AGM, Movement: N/A
+Company: Legal & General Grp (LGEN), Announcement: Block listing Interim Review, Movement: N/A
+Company: Legal & General Grp (LGEN), Announcement: Director/PDMR Shareholding, Movement: N/A
+Company: Legal & General Grp (LGEN), Announcement: Director/PDMR Shareholding, Movement: N/A
+Company: Legal & General Grp (LGEN), Announcement: Total Voting Rights, Movement: N/A
+Company: Legal&Gen Inv Mgmnt, Announcement: Form 8.3 - Proactis Holdings Plc, Movement: N/A
+Company: Legal&Gen Inv Mgmnt, Announcement: Form 8.3 - Sophos Group Plc, Movement: N/A
+Company: Legal&Gen Inv Mgmnt, Announcement: Form 8.3 - Just Eat Plc, Movement: N/A
+Company: Legal&Gen UCITS ETF, Announcement: Result of AGM, Movement: N/A
+Company: Legg Mason, Inc., Announcement: Form 8.3 - Allergan plc, Movement: N/A
+Company: Legg Mason, Inc., Announcement: Form 8.3 - Allergan PLC, Movement: N/A
+Company: Link Fund Solutions Ltd (REDD), Announcement: Redde Plc, Movement: N/A
+Company: Liontrust Asset Mgmt (LIO), Announcement: Holding(s) in Company, Movement: N/A
+Company: Lloyds Banking Group (LLOY), Announcement: Block listing Interim Review, Movement: N/A
+Company: Loungers PLC (LGRS), Announcement: Director Dealing, Movement: N/A
+Company: Low & Bonar PLC (LWB), Announcement: Total Voting Rights, Movement: N/A
+Company: M. P. Evans Group (MPE), Announcement: Total Voting Rights, Movement: N/A
+Company: M. P. Evans Group (MPE), Announcement: Block listing Interim Review, Movement: N/A
+Company: Maintel Holdings PLC (MAI), Announcement: Notification of Transactions of Directors/PDMR, Movement: N/A
+Company: Majedie Invs.PLC (MAJE), Announcement: Total Voting Rights, Movement: N/A
+Company: Man Group plc (EMG), Announcement: Man Group PLC : Form 8.3 - Centamin PLC, Movement: N/A
+Company: Man Group plc (EMG), Announcement: Total Voting Rights, Movement: N/A
+Company: Manchester & London (MNL), Announcement: Director/PDMR Shareholding, Movement: N/A
+Company: Manchester & London (MNL), Announcement: Total Voting Rights, Movement: N/A
+Company: Manikay Partners, LLC (JE.), Announcement: Form 8.3 - Just Eat plc, Movement: N/A
+Company: Marathon Asset Manag (JE.), Announcement: Form 8.3 - Just Eat plc, Movement: N/A
+Company: Marble Point Ln Fin (MPLF), Announcement: Dividend Declaration, Movement: N/A
+Company: Marks & Spencer Grp (MKS), Announcement: Block listing Interim Review, Movement: N/A
+Company: Marks & Spencer Grp (MKS), Announcement: Total Voting Rights, Movement: N/A
+Company: Marlborough Intnl Fd (IRSH), Announcement: Change to Fees, Movement: N/A
+Company: Marsh & McLennan. (MHM), Announcement: Marsh & McLennan to Host Fourth Quarter Earnings Investor Call on January 30, Movement: N/A
+Company: Marston's Plc (MARS), Announcement: Total Voting Rights, Movement: N/A
+Company: Martin Currie GblPrt (MNP), Announcement: Total Voting Rights, Movement: N/A
+Company: MC Mining Limited (MCM), Announcement: Director Resignation, Movement: N/A
+Company: McCarthy & Stone PLC (MCS), Announcement: Total Voting Rights, Movement: N/A
+Company: Menzies(John) PLC (MNZS), Announcement: Total Voting Rights, Movement: N/A
+Company: Menzies(John) PLC (MNZS), Announcement: Blocklisting - Interim Review, Movement: N/A
+Company: Mercantile Inv Tst (MRC), Announcement: Listing Rule 15.6.8, Movement: N/A
+Company: Mereo BioPharma Grp (MPH), Announcement: Second Price Monitoring Extn, Movement: N/A
+Company: Mereo BioPharma Grp (MPH), Announcement: Price Monitoring Extension, Movement: N/A
+Company: Metal Tiger plc (MTR), Announcement: Transaction in own Shares, Movement: N/A
+Company: Metro Bank PLC (MTRO), Announcement: Total Voting Rights, Movement: N/A
+Company: MGI Arbea Fund Ltd (IRSH), Announcement: Resignation of Director, Movement: N/A
+Company: Michelmersh Brick (MBH), Announcement: Grant of Options, Movement: N/A
+Company: Micro Focus Int plc (MCRO), Announcement: Total Voting Rights, Movement: N/A
+Company: Mid Wynd Inter Inv (MWY), Announcement: Compliance with Market Abuse Regulation, Movement: N/A
+Company: Middlefield Canadian (MCT), Announcement: Dividend Declaration, Movement: N/A
+Company: MILLENNIUM PARTNERS, L.P. (0RJE), Announcement: Form 8.3 - Takeaway.com N.V., Movement: N/A
+Company: MILLENNIUM PARTNERS, L.P. (0YYC), Announcement: Form 8.3 - Endeavour Mining Corporation, Movement: N/A
+Company: MILLENNIUM PARTNERS, L.P. (0YYC), Announcement: Form 8.3 - Endeavour Mining Corporation, Movement: N/A
+Company: MILLENNIUM PARTNERS, L.P. (AMER), Announcement: Form 8.3 - Amerisur Resources plc, Movement: N/A
+Company: MILLENNIUM PARTNERS, L.P. (CEY), Announcement: Form 8.3 - Centamin plc, Movement: N/A
+Company: MILLENNIUM PARTNERS, L.P. (JE.), Announcement: Form 8.3 - Just Eat plc, Movement: N/A
+Company: Mitchells & Butlers (MAB), Announcement: Total Voting Rights, Movement: N/A
+Company: MITIE Group PLC (MTO), Announcement: Total Voting Rights, Movement: N/A
+Company: MITIE Group PLC (MTO), Announcement: Board Changes, Movement: N/A
+Company: Monks Inv.Trust (MNKS), Announcement: Total Voting Rights, Movement: N/A
+Company: Morgan Sindall Grp (MGNS), Announcement: Total Voting Rights, Movement: N/A
+Company: Morgan Stan. Canada, Announcement: Form 8.3 - Endeavour Mining Corporation, Movement: N/A
+Company: Morgan Stanley & Co. (48QN), Announcement: Form 8.5 (EPT/RI) - Replacement of JUST EAT PLC, Movement: N/A
+Company: Morgan Stanley & Co. (48QN), Announcement: Form 8.5 (EPT/RI) - Replacement of JUST EAT PLC, Movement: N/A
+Company: Morgan Stanley & Co. (48QN), Announcement: Form 8.5 (EPT/RI) -Replacement of TAKEAWAY.COM N.V, Movement: N/A
+Company: Morgan Stanley & Co. (48QN), Announcement: Form 8.5 (EPT/RI) - JUST EAT PLC, Movement: N/A
+Company: Morgan Stanley & Co. (48QN), Announcement: Form 8.5 (EPT/RI) - TAKEAWAY.COM N.V., Movement: N/A
+Company: Morgan Stanley & Co. (48QN), Announcement: Rule 38.5 - ALLERGAN PLC, Movement: N/A
+Company: Morgan Stanley & Co. (48QN), Announcement: Rule 38.5 - ABBVIE INC., Movement: N/A
+Company: Morgan Stanley & Co. (48QN), Announcement: Rule 38.5 - Replacement of ABBVIE INC., Movement: N/A
+Company: Morgan Stanley & Co. (48QN), Announcement: Form 8.5 (EPT/RI) - Replacement of JUST EAT PLC, Movement: N/A
+Company: Morgan Stanley B.V. (18XV), Announcement: Early Redemption, Movement: N/A
+Company: Morgan Stanley Cap, Announcement: Rule 38.5 - ALLERGAN PLC, Movement: N/A
+Company: Morgan Stanley Cap, Announcement: Rule 38.5 - ABBVIE INC., Movement: N/A
+Company: Morgan Stanley Smith, Announcement: Form 8.3 - ABBVIE INC., Movement: N/A
+Company: Morgan Stanley&CoLLC, Announcement: Form 8.5 (EPT/RI) - TAKEAWAY.COM N.V., Movement: N/A
+Company: Morgan Stanley&CoLLC, Announcement: Rule 38.5 - ALLERGAN PLC, Movement: N/A
+Company: Morgan Stanley&CoLLC, Announcement: Rule 38.5 - ABBVIE INC., Movement: N/A
+Company: Morgan Stanley&CoLLC, Announcement: Rule 38.5 - Replacement of ALLERGAN PLC, Movement: N/A
+Company: Morgan Stanley&CoLLC, Announcement: Rule 38.5 - Replacement of ABBVIE INC., Movement: N/A
+Company: Morrison W.Sprmkts (MRW), Announcement: Total Voting Rights, Movement: N/A
+Company: Mothercare PLC (MTC), Announcement: Directorate change, Movement: N/A
+Company: Münchener Rückversicherungs-, Announcement: Release according to Article 40, Section 1 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution, Movement: N/A
+Company: Naked Wines PLC (WINE), Announcement: Total Voting Rights, Movement: N/A
+Company: National Grid PLC (NG.), Announcement: Total Voting Rights, Movement: N/A
+Company: NB Glbl Fltg Rte Inc (NBLS), Announcement: Total Voting Rights, Movement: N/A
+Company: NB Glbl Fltg Rte Inc (NBLS), Announcement: Transaction in Own Shares, Movement: N/A
+Company: NB Private Equity Partners Lim (NBPE), Announcement: NB Private Equity: Total Voting Rights, Movement: N/A
+Company: NBC GLOBAL (EIGÂ), Announcement: Form 8.3 - EIG LN Equity 30-December-19 Decrease In Traded Position, Movement: N/A
+Company: Nektan PLC (NKTN), Announcement: Temporary Suspension, Movement: N/A
+Company: NeubergerBerman Inv. (IRSH), Announcement: Change of Listing Sponsor, Movement: N/A
+Company: NEX Exchange (NEXX), Announcement: Admission of Security to Trading, Movement: N/A
+Company: NEX Exchange (NEXX), Announcement: Suspension of Trading, Movement: N/A
+Company: Nomura International, Announcement: Form 8.5 - EI Group plc, Movement: N/A
+Company: Nomura Intl. PLC, Announcement: Form 8.3 - AMERISUR RESOURCES PLC, Movement: N/A
+Company: North American IT (NAIT), Announcement: Total Voting Rights, Movement: N/A
+Company: Northern Bear Plc (NTBR), Announcement: Notification of Holdings, Movement: N/A
+Company: Northern Trust Corp, Announcement: Form 8.3 - ALLERGAN PLC, Movement: N/A
+Company: Northern Trust Corp, Announcement: Form 8.3 - ABBVIE INC, Movement: N/A
+Company: Novacyt S.A. (NCYT), Announcement: Liquidity Agreement Update and Total Voting Rights, Movement: N/A
+Company: Numis Corporation (NUM), Announcement: TR-1: Notification of major holdings, Movement: N/A
+Company: Numis Corporation (NUM), Announcement: Annual Report and Annual General Meeting Notice, Movement: N/A
+Company: Numis Securities Ltd, Announcement: Form 8.5 (EPT/RI) - Centamin plc, Movement: N/A
+Company: Numis Securities Ltd, Announcement: Form 8.5 (EPT/RI) - Redde plc, Movement: N/A
+Company: Numis Securities Ltd, Announcement: Form 8.5 (EPT/RI) - accesso Technology Group plc, Movement: N/A
+Company: Octopus AIM VCT 2 plc (OSEC), Announcement: Total voting rights, Movement: N/A
+Company: Octopus AIM VCT PLC (OOA), Announcement: Total voting rights, Movement: N/A
+Company: Odyssean Inv. Trust (OIT), Announcement: Director/PDMR Shareholding, Movement: N/A
+Company: Official List, Announcement: Removal - BNP Paribas, Movement: N/A
+Company: Official List, Announcement: Removal - Trader Media East Limited, Movement: N/A
+Company: Official List, Announcement: Official List Notice, Movement: N/A
+Company: Official List, Announcement: Suspension - Carclo PLC, Movement: N/A
+Company: Omni Partners LLP, Announcement: Form 8.3 - EIG LN, Movement: N/A
+Company: Omni Partners LLP, Announcement: Form 8.3 - EIG LN, Movement: N/A
+Company: Open Orphan PLC (ORPH), Announcement: Form 8.3 - Open Orphan PLC, Movement: N/A
+Company: Oracle Power PLC (ORCP), Announcement: Exercise of warrants and issue of equity, Movement: N/A
+Company: Orchard Funding Grp (ORCH), Announcement: Holding(s) in Company, Movement: N/A
+Company: Oxford Biomedica PLC (OXB), Announcement: Total Voting Rights, Movement: N/A
+Company: Pacific Assets Tst (PAC), Announcement: Total Voting Rights, Movement: N/A
+Company: PageGroup plc (PAGE), Announcement: Total Voting Rights, Movement: N/A
+Company: Pantheon Resources (PANR), Announcement: Publication of Audited Financial Results, Movement: N/A
+Company: Paragon Banking Grp (PAG), Announcement: Total Voting Rights, Movement: N/A
+Company: Payden Global Funds (IRSH), Announcement: Dividends, Movement: N/A
+Company: Paypoint plc (PAY), Announcement: Total voting rights, Movement: N/A
+Company: PCI-PAL PLC (PCIP), Announcement: Holding(s) in Company, Movement: N/A
+Company: Pearson PLC (PSON), Announcement: Total Voting Rights, Movement: N/A
+Company: Peel Hunt LLP, Announcement: Form 8.5 (EPT/RI) - Hansteen Holdings PLC, Movement: N/A
+Company: Peel Hunt LLP, Announcement: Form 8.5 (EPT/RI) - Low & Bonar PLC, Movement: N/A
+Company: Peel Hunt LLP, Announcement: Form 8.5 (EPT/RI) - Nanoco Group PLC, Movement: N/A
+Company: Pentwater Capital Management L, Announcement: Form 8.3 - Allergan Plc, Movement: N/A
+Company: Perpetual Inc&Growth (PLI), Announcement: Transaction in Own Shares, Movement: N/A
+Company: Perpetual Inc&Growth (PLI), Announcement: Total Voting Rights, Movement: N/A
+Company: Pershing Square Hldg (PSH), Announcement: Pershing Square Holdings, Ltd. Announces Transactions in Own Shares, Movement: N/A
+Company: Persimmon Plc (PSN), Announcement: Total Voting Rights, Movement: N/A
+Company: Personal Assets Tst. (PNL), Announcement: Issue of Equity, Movement: N/A
+Company: Personal Assets Tst. (PNL), Announcement: Block listing Interim Review, Movement: N/A
+Company: Personal Assets Tst. (PNL), Announcement: Total Voting Rights, Movement: N/A
+Company: Personal Group (PGH), Announcement: PDMR purchase of shares, Movement: N/A
+Company: Petropavlovsk Plc (POG), Announcement: NOTIFICATION OF MAJOR HOLDINGS, Movement: N/A
+Company: Petropavlovsk Plc (POG), Announcement: NOTIFICATION OF MAJOR HOLDINGS, Movement: N/A
+Company: Phoenix Global Res (PGR), Announcement: Second Price Monitoring Extn, Movement: N/A
+Company: Phoenix Global Res (PGR), Announcement: Price Monitoring Extension, Movement: N/A
+Company: Polar Cap Tech Tst (PCT), Announcement: Block listing Interim Review, Movement: N/A
+Company: Polar Capital Global (PCFT), Announcement: Block listing Interim Review, Movement: N/A
+Company: Polarean Imaging PLC (POLX), Announcement: Director dealing, Movement: N/A
+Company: Pollen Street Sec. (PSSL), Announcement: Transaction in Own Shares and Total Voting Rights, Movement: N/A
+Company: Premier Foods plc (PFD), Announcement: Total Voting Rights, Movement: N/A
+Company: Premier Global Inf (PGIT), Announcement: Statement re Inside Information under MAR, Movement: N/A
+Company: Premier Oil PLC (PMO), Announcement: Block listing Interim Review, Movement: N/A
+Company: Premier Oil PLC (PMO), Announcement: Total Voting Rights and Warrant Update, Movement: N/A
+Company: Primary Health Props (PHP), Announcement: Dividend Declaration, Movement: N/A
+Company: Prime People PLC (PRP), Announcement: PDMR Shareholding and Treasury Shares, Movement: N/A
+Company: Princess Priv Equity (PEY), Announcement: Compliance with Model Code, Movement: N/A
+Company: Princess Priv Equity (PEY), Announcement: Total Voting Rights, Movement: N/A
+Company: Prosafe SE, Announcement: Prosafe SE: Update on merger process - Extension of share purchase agreement with Floatel International, Movement: N/A
+Company: Proton Motor Power (PPS), Announcement: Director/PDMR Shareholding, Movement: N/A
+Company: Proven Growth & Inc. (PGOO), Announcement: ProVen Growth and Income VCT plc: Total voting rights, Movement: N/A
+Company: Proven VCT plc (PVN), Announcement: ProVen VCT plc: Total voting rights, Movement: N/A
+Company: Prudential PLC (PRU), Announcement: Total Voting Rights, Movement: N/A
+Company: PureCircle Limited (PURE), Announcement: Block Listing Six Monthly Return, Movement: N/A
+Company: PureTech Health PLC (PRTC), Announcement: Total Voting Rights, Movement: N/A
+Company: PV Crystalox Solar (PVCS), Announcement: Director/PDMR Shareholding, Movement: N/A
+Company: Quilter PLC (QLT), Announcement: Completion of Quilter Life Assurance Disposal, Movement: N/A
+Company: Rathbone Brothers (RAT), Announcement: Total Voting Rights, Movement: N/A
+Company: Raven Property Grp (RAV), Announcement: Total Voting Rights, Movement: N/A
+Company: Real Estate Investrs (RLE), Announcement: Holding(s) in Company, Movement: N/A
+Company: ReAssure Group PLC (71WW), Announcement: Completion of Quilter UK Heritage book acquisition, Movement: N/A
+Company: Reckitt Benckiser Gp (RB.), Announcement: Total Voting Rights, Movement: N/A
+Company: Redrow PLC (RDW), Announcement: Director/PDMR Shareholding, Movement: N/A
+Company: Release, Announcement: Scatec Solar ASA: Long term incentive programme, Movement: N/A
+Company: RELX PLC (REL), Announcement: Total Voting Rights, Movement: N/A
+Company: RELX PLC (REL), Announcement: Transaction in Own Shares, Movement: N/A
+Company: RELX PLC (REL), Announcement: Block listing Interim Review, Movement: N/A
+Company: ReNeuron Group plc (RENE), Announcement: Total Voting Rights, Movement: N/A
+Company: RIB Software SE, Announcement: Release according to Article 40, Section 1 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution, Movement: N/A
+Company: RIB Software SE, Announcement: Release according to Article 40, Section 1 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution, Movement: N/A
+Company: RIB Software SE, Announcement: Release according to Article 40, Section 1 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution, Movement: N/A
+Company: RIB Software SE, Announcement: Release according to Article 40, Section 1 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution, Movement: N/A
+Company: Rightmove Plc (RMV), Announcement: Total Voting Rights, Movement: N/A
+Company: Rightmove Plc (RMV), Announcement: Closed Period share repurchase programme, Movement: N/A
+Company: Riksgälden, Announcement: On top issuance of T-Bills, Movement: N/A
+Company: Rio Tinto (RIO), Announcement: Total Voting Rights, Movement: N/A
+Company: Robeco NV. (0RJE), Announcement: Form 8.3 - Takeaway.com N.V., Movement: N/A
+Company: Rotala PLC (ROL), Announcement: Director/PDMR Shareholding, Movement: N/A
+Company: Rotork PLC (ROR), Announcement: Total Voting Rights, Movement: N/A
+Company: Royal Bk Scot.Grp. (RBS), Announcement: Form 8.3 - Accesso Technology Group plc, Movement: N/A
+Company: Royal Dutch Shell plc (RDSA), Announcement: Transaction in Own Shares, Movement: N/A
+Company: RSA Ins Grp (RSA), Announcement: Total Voting Rights, Movement: N/A
+Company: RSA Ins Grp (RSA), Announcement: Block listing Interim Review, Movement: N/A
+Company: Ryanair Holdings PLC (RYA), Announcement: Total Voting Rights, Movement: N/A
+Company: Ryanair Holdings PLC (RYA), Announcement: Transaction in Own Shares, Movement: N/A
+Company: Safe Harbour Hldngs (SHH), Announcement: Holding(s) in Company, Movement: N/A
+Company: Safe Harbour Hldngs (SHH), Announcement: Holding(s) in Company, Movement: N/A
+Company: Sainsbury(J) PLC (SBRY), Announcement: Total Voting Rights, Movement: N/A
+Company: Samson Rock Capital, Announcement: Form 8.3 - Consort Medical PLC Amendment, Movement: N/A
+Company: Samson Rock Capital, Announcement: Form 8.3 - Ei Group plc, Movement: N/A
+Company: Samson Rock Capital, Announcement: Form 8.3 - Consort Medical PLC, Movement: N/A
+Company: San Leon Energy PLC (SLE), Announcement: Transaction in Own Shares, Movement: N/A
+Company: Sanderson Asset Mgt, Announcement: Form 8.3 - Cobham plc, Movement: N/A
+Company: SATO Oyj, Announcement: SATO to launch construction of Wise Mobility City Block in Helsinki’s Oulunkylä district this year, Movement: N/A
+Company: Saudi Arabian Oil Co (64EZ), Announcement: Stabilisation Update, Movement: N/A
+Company: Scandinavian Tobacco Group A/S, Announcement: Scandinavian Tobacco Group completes the acquisition of Royal Agio Cigars, Movement: N/A
+Company: Scapa Group PLC (SCPA), Announcement: Total Voting Rights, Movement: N/A
+Company: Schroder Orientl Inc (SOI), Announcement: Issue of Equity, Movement: N/A
+Company: Scot.American Inv. (SAIN), Announcement: Closed Period Confirmation, Movement: N/A
+Company: Scot.American Inv. (SAIN), Announcement: Total Voting Rights, Movement: N/A
+Company: Scot.Inv.Trust PLC (SCIN), Announcement: Total Assets Value, Movement: N/A
+Company: SDL PLC (SDL), Announcement: Block listing Interim Review, Movement: N/A
+Company: SDL PLC (SDL), Announcement: Second Price Monitoring Extn, Movement: N/A
+Company: SDL PLC (SDL), Announcement: Price Monitoring Extension, Movement: N/A
+Company: Secure Trust BankPLC (STB), Announcement: Total Voting Rights, Movement: N/A
+Company: Secure Trust BankPLC (STB), Announcement: Block listing Interim Review, Movement: N/A
+Company: Securities Tst Scot (STS), Announcement: Total Voting Rights, Movement: N/A
+Company: Seneca Glbl Inc&Gwth (SIGT), Announcement: Total Voting Rights, Movement: N/A
+Company: Serco Group PLC (SRP), Announcement: Total Voting Rights, Movement: N/A
+Company: Serica Energy plc (SQZ), Announcement: Total Voting Rights, Movement: N/A
+Company: Severn Trent PLC (SVT), Announcement: OPTIONS AWARDED UNDER THE STPlc SHARESAVE SCHEME, Movement: N/A
+Company: Severn Trent PLC (SVT), Announcement: Total Voting Rights, Movement: N/A
+Company: Shires Income PLC (SHRS), Announcement: Issue of Equity, Movement: N/A
+Company: Shires Income PLC (SHRS), Announcement: Total Voting Rights, Movement: N/A
+Company: SigmaRoc PLC (SRC), Announcement: Director and PDMR Dealings, Movement: N/A
+Company: Signature Aviation (SIG), Announcement: Block listing Interim Review, Movement: N/A
+Company: Silchester Int.Inv., Announcement: Form 8.3 - Cobham plc, Movement: N/A
+Company: Sirius Minerals plc (SXX), Announcement: Block Listing Six Monthly Return, Movement: N/A
+Company: Sirius Minerals plc (SXX), Announcement: Block Listing Six Monthly Return, Movement: N/A
+Company: Sirius Real Estate (SRE), Announcement: Total Voting Rights, Movement: N/A
+Company: SLEEPZ AG, Announcement: Correction of a release from 04/02/2019 according to Article 40, Section 1 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution, Movement: N/A
+Company: SLEEPZ AG, Announcement: Correction of a release from 30/05/2018 according to Article 40, Section 1 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution, Movement: N/A
+Company: SME Credit Real Ltd (SCRF), Announcement: Total Voting Rights, Movement: N/A
+Company: Smith (DS) PLC (SMDS), Announcement: Total Voting Rights, Movement: N/A
+Company: Smith & Nephew Plc (SN.), Announcement: Total Voting Rights, Movement: N/A
+Company: Smithson Inv.Trust (SSON), Announcement: Issue of Equity, Movement: N/A
+Company: Societe Generale SA, Announcement: Form 8.3 - EI Group, Movement: N/A
+Company: Societe Generale SA, Announcement: Form 8.3 - Centamin plc, Movement: N/A
+Company: Societe Generale SA, Announcement: Form 8.3 - Cobham plc, Movement: N/A
+Company: Societe Generale SA, Announcement: Form 8.3 - Sophos Group plc, Movement: N/A
+Company: Softcat PLC (SCT), Announcement: Total Voting Rights, Movement: N/A
+Company: Sophos Group Plc (SOPH), Announcement: Holding(s) in Company, Movement: N/A
+Company: Sophos Group Plc (SOPH), Announcement: Holding(s) in Company, Movement: N/A
+Company: Sophos Group Plc (SOPH), Announcement: Total Voting Rights, Movement: N/A
+Company: Sophos Group Plc (SOPH), Announcement: Rule 2.9 Announcement, Movement: N/A
+Company: Sound Energy PLC (SOU), Announcement: Update re Tendrara Gas Sales Agreement MOU, Movement: N/A
+Company: South32 Limited (S32), Announcement: Total Voting Rights, Movement: N/A
+Company: Spectris PLC (SXS), Announcement: Total Voting Rights, Movement: N/A
+Company: Spirent Comm PLC (SPT), Announcement: Total Voting Rights, Movement: N/A
+Company: SQN Asset Fin Inc Fd (SQN), Announcement: Total Voting Rights, Movement: N/A
+Company: SSE Plc (SSE), Announcement: Total Voting Rights, Movement: N/A
+Company: SSH Communications Security Co, Announcement: SSH Communications Security Corporation receives a key patent for its PrivX® technology in the United States, Movement: N/A
+Company: SSP Group PLC (SSPG), Announcement: Total Voting Rights, Movement: N/A
+Company: St. James's Place (STJ), Announcement: Total Voting Rights, Movement: N/A
+Company: Stagecoach Group PLC (SGC), Announcement: Total Voting Rights, Movement: N/A
+Company: Standard Chrtrd Bank (51OX), Announcement: Repurchase, Movement: N/A
+Company: Standard Life Aberdn (SLA), Announcement: Total Voting Rights, Movement: N/A
+Company: Star Phoenix Group (STA), Announcement: Drilling rigs sale update, Movement: N/A
+Company: State Street Global, Announcement: Form 8.3 - [Takeaway.com N.V.], Movement: N/A
+Company: State Street Global, Announcement: Form 8.3 - [Redde plc], Movement: N/A
+Company: State Street Global, Announcement: Form 8.3 - [Northgate plc], Movement: N/A
+Company: State Street Global, Announcement: Form 8.3 - [Endeavour Mining Corporation], Movement: N/A
+Company: State Street Global, Announcement: Form 8.3 - [Ei Group plc], Movement: N/A
+Company: State Street Global, Announcement: Form 8.3 - [Cobham plc], Movement: N/A
+Company: State Street Global, Announcement: Form 8.3 - [Centamin plc], Movement: N/A
+Company: State Street International (Ir, Announcement: Form 8.3 - [Allergan plc], Movement: N/A
+Company: State Street International (Ir, Announcement: Form 8.3 - [AbbVie Inc.], Movement: N/A
+Company: SThree (STHR), Announcement: Voting Rights and Capital, Movement: N/A
+Company: Stock Exch Notice, Announcement: Admission to Trading - 02/01/2020, Movement: N/A
+Company: Stock Exch Notice, Announcement: Cancellation - Trader Media East Ld, Movement: N/A
+Company: Stock Exch Notice, Announcement: Cancellation - BNP Paribas, Movement: N/A
+Company: Syquant Capital, Announcement: Form 8.3 - EIG LN, Movement: N/A
+Company: T.Rowe Price Assoc, Announcement: Form 8.3 - [Cobham Plc], Movement: N/A
+Company: T.Rowe Price Assoc, Announcement: Form 8.3 - [AbbVie Inc], Movement: N/A
+Company: T.Rowe Price Assoc, Announcement: Form 8.3 - [AbbVie Inc], Movement: N/A
+Company: Taconic Biosciences, Announcement: Taconic Biosciences Announces New San Diego Location, Movement: N/A
+Company: Takeaway.com N.V., Announcement: Rule 2.9 Announcement, Movement: N/A
+Company: Takeover Panel, Announcement: Disclosure Table (POTAM only), Movement: N/A
+Company: Takeover Panel, Announcement: Disclosure Table (POTAM only), Movement: N/A
+Company: Tally Ltd, Announcement: AGM Results, Board Changes and Product Update, Movement: N/A
+Company: Tate & Lyle PLC (TATE), Announcement: Block listing Interim Review, Movement: N/A
+Company: Tavira Securities, Announcement: Form 8.3 - Bezant Resources PLC Replacement, Movement: N/A
+Company: Tavira Securities, Announcement: Form 8.3 - Bezant Resources PLC Replacement, Movement: N/A
+Company: Tavira Securities, Announcement: Form 8.3 - Brezant Resources PLC Replacement, Movement: N/A
+Company: Tavira Securities, Announcement: Form 8.3 - Bezant Resources PLC Replacement, Movement: N/A
+Company: Tavira Securities, Announcement: Form 8.3 - Brezant Resources PLC Replacement, Movement: N/A
+Company: Taylor Wimpey PLC (TW.), Announcement: Block listing Interim Review, Movement: N/A
+Company: Taylor Wimpey PLC (TW.), Announcement: Block listing Interim Review, Movement: N/A
+Company: Taylor Wimpey PLC (TW.), Announcement: Total Voting Rights, Movement: N/A
+Company: Team17 Group PLC (TM17), Announcement: Acquisition of Yippee Entertainment Limited, Movement: N/A
+Company: TechnipFMC, Announcement: TechnipFMC plc: Total Voting Rights and Share Capital, Movement: N/A
+Company: Telecom Plus PLC (TEP), Announcement: Holding(s) in Company, Movement: N/A
+Company: Temple Bar Inv.Tst (TMPL), Announcement: Blocklisting - Interim Review, Movement: N/A
+Company: Temple Bar Inv.Tst (TMPL), Announcement: Compliance with Market Abuse Regulation, Movement: N/A
+Company: Ten Entertainment (TEG), Announcement: Notice of Full-Year Trading Update, Movement: N/A
+Company: The Forden Fund Ltd (IRSH), Announcement: Dividend payment, Movement: N/A
+Company: The Vanguard Group, Inc., Announcement: Takeaway.com N.V., Movement: N/A
+Company: The Vanguard Group, Inc., Announcement: Endeavour Mining Corporation, Movement: N/A
+Company: The Vanguard Group, Inc. (CEY), Announcement: Centamin plc, Movement: N/A
+Company: The Vanguard Group, Inc. (COB), Announcement: Cobham plc, Movement: N/A
+Company: The Vanguard Group, Inc. (EIG), Announcement: Ei Group plc, Movement: N/A
+Company: The Vanguard Group, Inc. (IRSH), Announcement: AbbVie plc, Movement: N/A
+Company: The Vanguard Group, Inc. (IRSH), Announcement: Allergan plc, Movement: N/A
+Company: The Vanguard Group, Inc. (JE.), Announcement: Just Eat plc, Movement: N/A
+Company: The Vanguard Group, Inc. (SOPH), Announcement: Sophos Group plc, Movement: N/A
+Company: Third Point Offshore (TPOG), Announcement: Total Voting Rights, Movement: N/A
+Company: Third Point Offshore (TPOG), Announcement: Third Point December 2019 Performance, Movement: N/A
+Company: ThreeKit, Announcement: Survey: Online Shoppers Say It’s Retailers’ Responsibility to Minimize Return Rates Due to Their Negative Impact on Environment, Movement: N/A
+Company: Tibra Trading PTY Limited (CTR), Announcement: Charles Taylor PLC, Movement: N/A
+Company: Tibra Trading PTY Limited (CTR), Announcement: Charles Taylor PLC, Movement: N/A
+Company: Tiziana Life Sci PLC (TILS), Announcement: Director/PDMR Shareholding, Movement: N/A
+Company: Total Produce Plc (TOT), Announcement: Holding(s) in Company, Movement: N/A
+Company: Touchstone Explrtn. (TXP), Announcement: Standard form for notification of major holdings, Movement: N/A
+Company: Tracsis PLC (TRCS), Announcement: Total Voting Rights, Movement: N/A
+Company: TrainerWorthamCBOIV (IRSH), Announcement: Trainer Wortham IV Notice of Upcoming Auction, Movement: N/A
+Company: Travis Perkins (TPK), Announcement: Director/PDMR Shareholding, Movement: N/A
+Company: Travis Perkins (TPK), Announcement: Total Voting Rights, Movement: N/A
+Company: Troy Inc & Gwth Plc (TIGT), Announcement: Issue of Equity, Movement: N/A
+Company: Troy Inc & Gwth Plc (TIGT), Announcement: Total Voting Rights, Movement: N/A
+Company: TT Electronics PLC (TTG), Announcement: Total Voting Rights, Movement: N/A
+Company: Tungsten Corp PLC (TUNG), Announcement: Second Price Monitoring Extn, Movement: N/A
+Company: Tungsten Corp PLC (TUNG), Announcement: Price Monitoring Extension, Movement: N/A
+Company: UBS AG (EPT), Announcement: Form 8.5 (EPT/RI) - Takeaway.com NV Replacement, Movement: N/A
+Company: UBS AG (EPT), Announcement: Form 8.5 (EPT/RI) - Takeaway.com NV Replacement, Movement: N/A
+Company: UBS AG (EPT), Announcement: Form 8.5 (EPT/RI) - Just Eat plc Replacement, Movement: N/A
+Company: UBS AG (EPT), Announcement: Form 8.5 (EPT/RI) - Sophos Group plc Replacement, Movement: N/A
+Company: UBS AG (EPT), Announcement: Form 8.5 (EPT/RI) - Just Eat plc, Movement: N/A
+Company: UBS AG (EPT), Announcement: Form 8.5 (EPT/RI) - Takeaway.com NV, Movement: N/A
+Company: UBS AG (EPT), Announcement: Form 8.5 (EPT/RI) - Sophos Group plc, Movement: N/A
+Company: UDG Healthcare Plc (UDG), Announcement: Total Voting Rights, Movement: N/A
+Company: UIL Limited (UTL), Announcement: Total Voting Rights, Movement: N/A
+Company: UK Oil & Gas PLC (UKOG), Announcement: Issue of Shares, Movement: N/A
+Company: Unicorn AIM VCT PLC (UAV), Announcement: Total Voting Rights, Movement: N/A
+Company: Urban Exposure plc (UEX), Announcement: Related Party Transaction, Movement: N/A
+Company: Urban Logistics REIT (SHED), Announcement: Holding(s) in Company, Movement: N/A
+Company: US Solar Fund PLC (USF), Announcement: Third Acquisition Update, Movement: N/A
+Company: US Solar Fund PLC (USF), Announcement: Total Voting Rights, Movement: N/A
+Company: Utilico Emerging Mkt (UEM), Announcement: Director/PDMR Shareholding - Hansen, Movement: N/A
+Company: Utilico Emerging Mkt (UEM), Announcement: Director/PDMR Shareholding - Muh, Movement: N/A
+Company: Utilico Emerging Mkt (UEM), Announcement: Director/PDMR Shareholding - Milne, Movement: N/A
+Company: Vaalco Energy Inc (EGY), Announcement: PDMR Share Dealing, Movement: N/A
+Company: Van Eck (0YYC), Announcement: Form 8.3 - Endeavour Mining Corp., Movement: N/A
+Company: Van Eck (CEY), Announcement: Form 8.3 - Centamin PLC, Movement: N/A
+Company: Vast Resources plc (VAST), Announcement: Exercise of Warrants and Issue of Equity, Movement: N/A
+Company: Vast Resources plc (VAST), Announcement: Funding Update, Movement: N/A
+Company: Vectura Group plc (VEC), Announcement: Voting Rights and Capital, Movement: N/A
+Company: VietNam Holding Ltd (VNH), Announcement: Total Voting Rights, Movement: N/A
+Company: Virgin Money UK PLC (VMUK), Announcement: Total Voting Rights, Movement: N/A
+Company: VIS Finance SA (IRSH), Announcement: Extension to Maturity Date Series 2017-15, Movement: N/A
+Company: Vitec Group PLC(The) (VTC), Announcement: Total Voting Rights, Movement: N/A
+Company: Vodafone Group Plc (VOD), Announcement: Total Voting Rights, Movement: N/A
+Company: VPC Specialty (VSL), Announcement: Total Voting Rights, Movement: N/A
+Company: VPC Specialty (VSL), Announcement: Transaction in Own Shares, Movement: N/A
+Company: W.H. Ireland Group (WHI), Announcement: Holding(s) in Company, Movement: N/A
+Company: WANdisco Plc (WAND), Announcement: Total Voting Rights, Movement: N/A
+Company: Warehouse REIT PLC (WHR), Announcement: Holding(s) in Company, Movement: N/A
+Company: Wellington Mngmnt Gp, Announcement: Form 8.3 - Consort Medical plc, Movement: N/A
+Company: Wells Fargo & Co (17ZG), Announcement: Doc re. Form 8-K, Movement: N/A
+Company: Whitbread PLC (WTB), Announcement: Total Voting Rights, Movement: N/A
+Company: William Hill PLC (WMH), Announcement: Total Voting Rights, Movement: N/A
+Company: Wilmington PLC (WIL), Announcement: Total Voting Rights, Movement: N/A
+Company: WisdomTree Comm Sec (AIGA), Announcement: Issue of WisdomTree Commodity Securities Limited, Movement: N/A
+Company: WisdomTree Frgn Exch, Announcement: Issue of WisdomTree Foreign Exchange Limited, Movement: N/A
+Company: WisdomTree Hdg Cm Se, Announcement: Issue of WisdomTree Hedged Commodity Secs Limited, Movement: N/A
+Company: Witan Inv Tst PLC (WTAN), Announcement: Total Voting Rights, Movement: N/A
+Company: Witan Pacific InvTst (WPC), Announcement: Total Voting Rights, Movement: N/A
+Company: Witan Pacific InvTst (WPC), Announcement: Transaction in Own Shares, Movement: N/A
+Company: Worldwide Healthcare (WWH), Announcement: Total Voting Rights, Movement: N/A
+Company: WPP PLC (WPP), Announcement: Transaction in Own Shares, Movement: N/A
+Company: Xaar PLC (XAR), Announcement: Total Voting Rights, Movement: N/A
+Company: XLMedia PLC (XLM), Announcement: Director Share Purchase, Movement: N/A
+Company: YouGov PLC (YOU), Announcement: Total Voting Rights, Movement: N/A
+Company: ZCCM Invs.Hldgs PLC (ZCC), Announcement: JOINT VENTURE PARTNERSHIP- GOLD MINING, Movement: N/A
+Company: Zenith Energy Ltd (ZEN), Announcement: Preparing for operations in West Africa, Movement: N/A

@@ -1,63 +1,63 @@
 
 		FTSE 100
-British American Tobacco                3359.50       +2.89%
-Imperial Brands                         1929.00       +2.83%
-BP                                       493.95       +2.72%
-Polymetal International                 1217.00       +2.14%
-Royal Dutch Shell                       2305.25       +2.07%
-easyJet                                 1383.75       -3.23%
-Antofagasta                              922.40       -2.39%
-Carnival                                3567.00       -2.22%
-Royal Bank of Scotland Group (The)       239.45       -1.99%
-JD Sports Fashion                        815.30       -1.94%
+BP                                       507.10       +2.64%
+BAE Systems                              590.60       +1.69%
+Polymetal International                 1226.00       +1.32%
+Royal Dutch Shell                       2324.25       +1.12%
+Associated British Foods                2620.50       +1.06%
+NMC Health                              1661.50       -5.06%
+Evraz                                    385.70       -3.79%
+Hikma Pharmaceuticals                   1917.75       -3.44%
+Morrison (Wm) Supermarkets               192.95       -3.09%
+Hargreaves Lansdown                     1879.75       -2.98%
 
 FTSE 250
-Fresnillo                                658.90       +2.31%
-John Wood Group                          395.65       +2.21%
-Premier Oil                              101.70       +2.11%
-Ti Fluid Systems  Ord 1p Wi              269.75       +1.98%
-Cairn Energy                             207.40       +1.67%
-Galliford Try                            169.65      -80.85%
-Bovis Homes Group                       1309.00       -5.21%
-William Hill                             186.20       -4.68%
-Vivo Energy                              119.70       -4.24%
-Kainos Group                             753.00       -4.20%
+John Wood Group                          413.70       +5.24%
+Babcock International Group              628.80       +2.58%
+TalkTalk Telecom Group                   120.40       +2.38%
+Ferrexpo                                 159.15       +2.22%
+Ultra Electronics Holdings              2176.00       +1.68%
+Spirent Communications                   232.75       -5.39%
+Hammerson                                292.30       -5.31%
+Paragon Banking Group                    516.75       -4.57%
+Aston Martin Lagonda                     513.90       -4.16%
+TBC Bank Group                          1245.00       -3.94%
 
 FTSE 350
-British American Tobacco                3359.50       +2.89%
-Imperial Brands                         1929.00       +2.83%
-BP                                       493.95       +2.72%
-Fresnillo                                658.90       +2.31%
-John Wood Group                          395.65       +2.21%
-Galliford Try                            169.65      -80.85%
-Bovis Homes Group                       1309.00       -5.21%
-William Hill                             186.20       -4.68%
-Vivo Energy                              119.70       -4.24%
-Kainos Group                             753.00       -4.20%
+John Wood Group                          413.70       +5.24%
+BP                                       507.10       +2.64%
+Babcock International Group              628.80       +2.58%
+TalkTalk Telecom Group                   120.40       +2.38%
+Ferrexpo                                 159.15       +2.22%
+Spirent Communications                   232.75       -5.39%
+Hammerson                                292.30       -5.31%
+NMC Health                              1661.50       -5.06%
+Paragon Banking Group                    516.75       -4.57%
+Aston Martin Lagonda                     513.90       -4.16%
 
 AIM
-Lekoil                                     9.25      +26.71%
-Kibo Mining                                0.46      +21.33%
-Conroy Gold And Natural Resources          7.25      +19.83%
-Synairgen                                  6.88      +17.02%
-Bigdish  Ord Npv                           1.40      +16.67%
-Tri-Star Resources                        14.25      -58.70%
-Pathfinder Minerals                        0.82      -26.67%
-Tanfield Group                             2.76      -21.37%
-Richland Resources                         0.10      -20.83%
-Eve Sleep                                  1.95      -17.02%
+Maestrano Group  Ord 1p                    2.95      +84.38%
+Webis Holdings                             1.75      +34.62%
+GRC International Group                   18.00      +24.14%
+Zenith Energy                              2.25      +20.00%
+KEFI Minerals                              1.64      +18.41%
+Anglo African Oil  Gas  Ord 5p             0.42      -26.09%
+Nu-oil And Gas                             0.05      -20.83%
+Petrel Resources                          11.50      -19.30%
+Catenae Innovation  Ord 0.1p               0.95      -13.64%
+Challenger Acquisitions                    0.14      -12.90%
 
 Overall Market
-Golden Prospect Precious Metals Lim        3.75      +29.31%
-Lekoil                                     9.25      +26.71%
-Kibo Mining                                0.46      +21.33%
-Conroy Gold And Natural Resources          7.25      +19.83%
-Synairgen                                  6.88      +17.02%
-Galliford Try                            169.65      -80.85%
-Tri-Star Resources                        14.25      -58.70%
-Pathfinder Minerals                        0.82      -26.67%
-Tanfield Group                             2.76      -21.37%
-Richland Resources                         0.10      -20.83%
+Maestrano Group  Ord 1p                    2.95      +84.38%
+Webis Holdings                             1.75      +34.62%
+GRC International Group                   18.00      +24.14%
+Zenith Energy                              2.25      +20.00%
+KEFI Minerals                              1.64      +18.41%
+Anglo African Oil  Gas  Ord 5p             0.42      -26.09%
+Nu-oil And Gas                             0.05      -20.83%
+Petrel Resources                          11.50      -19.30%
+Catenae Innovation  Ord 0.1p               0.95      -13.64%
+Challenger Acquisitions                    0.14      -12.90%
 
 
 	

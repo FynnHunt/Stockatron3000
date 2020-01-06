@@ -1,3 +1,15 @@
+Company: BPC Ireland Lending (IRSH), Announcement: Increase to Principal Amount outstanding on Note, Movement: +2.64%
+Company: Hargreaves Lansdown (HL.), Announcement: Notice of Results, Movement: -2.98%
+Company: KEFI Minerals plc (KEFI), Announcement: Result of General Meeting, Movement: +18.41%
+Company: KEFI Minerals plc (KEFI), Announcement: General Meeting Statement, Movement: +18.41%
+Company: KEFI Minerals plc (KEFI), Announcement: Completion of Project Equity Subscription, Movement: +18.41%
+Company: Maestrano Group PLC (MNO), Announcement: Contract win with major Australian rail company, News: Maestrano secures contract with Australian rail company, Movement: +84.38%
+Company: NMC Health Plc (NMC), Announcement: Independent Review Oversight Committee, News: NMC Health launches review into December 'attack', Movement: -5.06%
+Company: Royal Dutch Shell plc (RDSA), Announcement: Transaction in Own Shares, Movement: +1.12%
+Company: Zenith Energy Ltd (ZEN), Announcement: Loan to Anglo African Oil & Gas plc, Movement: +20.00%
+
+
+
 Company: 1Spatial Plc (SPA), Announcement: Holding(s) in Company, 
 Company: 4d Pharma PLC (DDDD), Announcement: Clinical Update, 
 Company: Aberdeen Emerg IncCo (AEMC), Announcement: Statement re dealings in shares, 
@@ -110,7 +122,6 @@ Company: BNP Paribas London, Announcement: Form 8.3 - Cobham Plc,
 Company: BNP Paribas London, Announcement: Form 8.3 - Hansteen Holdings Plc, 
 Company: BNP Paribas London, Announcement: Form 8.3 - Sophos Group Plc, 
 Company: Boku Inc (BOKU), Announcement: Total Acquisition Consideration for Danal is $25m, News: Boku finalises consideration for Danal acquisition, 
-Company: BPC Ireland Lending (IRSH), Announcement: Increase to Principal Amount outstanding on Note, Movement: +2.64%
 Company: Britvic plc (BVIC), Announcement: Director/PDMR Shareholding, 
 Company: Brown (N.) Group PLC (BWNG), Announcement: Price Monitoring Extension, 
 Company: Brunner Investment (BUT), Announcement: Listing Rule 15.6.8, 
@@ -254,7 +265,6 @@ Company: Gulf Keystone Petrol (GKP), Announcement: TR-1: notification of major h
 Company: GWM Asset Management, Announcement: Form 8.3 - Hansteen Holdings plc, 
 Company: Hansteen Hldgs plc (HSTN), Announcement: Form 8 (OPD) Hansteen Holdings PLC, 
 Company: Hardman & Co Research (RMDL), Announcement: RM Secured Direct Lending (RMDL): Social infrastructure: RMDL an alternative alternative, 
-Company: Hargreaves Lansdown (HL.), Announcement: Notice of Results, Movement: -2.98%
 Company: Hastings Group Hldgs (HSTG), Announcement: Block Listing Six Monthly Return, 
 Company: Hays PLC (HAS), Announcement: Director Declaration, 
 Company: HBK Investments LP, Announcement: Form 8.3 - Allergan plc, 
@@ -339,9 +349,6 @@ Company: JPMorganUS Small Cos (JUSC), Announcement: Gearing Announcement,
 Company: Jupiter Asset Management, Announcement: Form 8.3 - Accesso Technology Group Plc, 
 Company: JYSKE BANK A/S, Announcement: Share repurchase programme, 
 Company: Kainos Group plc (KNOS), Announcement: Total Voting Rights, 
-Company: KEFI Minerals plc (KEFI), Announcement: Result of General Meeting, Movement: +18.41%
-Company: KEFI Minerals plc (KEFI), Announcement: General Meeting Statement, Movement: +18.41%
-Company: KEFI Minerals plc (KEFI), Announcement: Completion of Project Equity Subscription, Movement: +18.41%
 Company: Keystone IT Plc (KIT), Announcement: Transaction in Own Shares, 
 Company: Keywords Studios PLC (KWS), Announcement: Holding(s) in Company, 
 Company: Knights Group Hldgs (KGH), Announcement: Acquisition of ERT Law Limited, News: Knights Group agrees to acquire ERT Law, 
@@ -367,7 +374,6 @@ Company: Leverage Shares PLC (IRSH), Announcement: Notice of Postponement of an 
 Company: Link Fund Solutions Ltd (REDD), Announcement: Redde Plc, 
 Company: Liontrust Asset Mgmt (LIO), Announcement: Form 8.3 - REDDE PLC, 
 Company: Lloyds Bank Plc (94WP), Announcement: Notice to Covered Bondholders, 
-Company: Maestrano Group PLC (MNO), Announcement: Contract win with major Australian rail company, News: Maestrano secures contract with Australian rail company, Movement: +84.38%
 Company: Majedie Asset Management Ltd, Announcement: Majedie Asset Management Ltd: Form 8.3 - NOSTRUM OIL & GAS PLC, 
 Company: Malvern Inter. PLC (MLVN), Announcement: Holding(s) in Company, 
 Company: Man Group plc (EMG), Announcement: Man Group PLC : Form 8.3 - Centamin plc, 
@@ -436,7 +442,6 @@ Company: Neuberger Berman Inv (IRSH), Announcement: Dividend Payment,
 Company: NeubergerBerman Inv. (IRSH), Announcement: Dividend Payment, 
 Company: NeubergerBerman Inv. (IRSH), Announcement: Dividend Payment, 
 Company: NewRiver REIT plc (NRR), Announcement: Scrip dividend, 
-Company: NMC Health Plc (NMC), Announcement: Independent Review Oversight Committee, News: NMC Health launches review into December 'attack', Movement: -5.06%
 Company: Nomura International, Announcement: Form 8.5 - EI Group plc, 
 Company: Nomura Intl. PLC, Announcement: Form 8.3 - AMERISUR RESOURCES PLC, 
 Company: Northern Trust Corp, Announcement: Form 8.3 - Allergan PLC, 
@@ -501,7 +506,6 @@ Company: Revolution Bars (RBG), Announcement: Notice of Reporting Dates,
 Company: Rightmove Plc (RMV), Announcement: Transaction in Own Shares, 
 Company: RM2 International SA (RM2), Announcement: Holding(s) in Company, 
 Company: RNS, Announcement: Final Announcement Released, 
-Company: Royal Dutch Shell plc (RDSA), Announcement: Transaction in Own Shares, Movement: +1.12%
 Company: Royal Philips, Announcement: Philips expands its range of consumer-focused digital health solutions at CES 2020, 
 Company: Ruffer LLP, Announcement: Form 8.3 - Sophos Group plc, 
 Company: Ryanair Holdings PLC (RYA), Announcement: Transaction in Own Shares, 
@@ -633,4 +637,3 @@ Company: WPP PLC (WPP), Announcement: Transaction in Own Shares,
 Company: XBT Provider AB, Announcement: XBT PROVIDER APPOINTS DENNIS ENGSTROM AS MANAGING DIRECTOR, 
 Company: York Capital Management Global (JE.), Announcement: Form 8.3 - Just Eat PLC, 
 Company: Young & Co's Brew. (YNGA), Announcement: Director/PDMR Shareholding, 
-Company: Zenith Energy Ltd (ZEN), Announcement: Loan to Anglo African Oil & Gas plc, Movement: +20.00%

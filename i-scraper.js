@@ -16,16 +16,13 @@ const getEndOfDayResults = async () =>
             const annTable = $('.announcementTabOne > tbody > tr');
             let announcements = getAnnouncementsArray($, annTable);
             let newsAndAnnouncements = await matchNewsWithAnnouncements(announcements);
-            console.log(newsAndAnnouncements);
-            let annPrint = [];
-            newsAndAnnouncements.forEach(element => annPrint.push(element.print + '\n'));
-
-            writeFile('Announcements.txt', annPrint.join(''));
             
             let topRFLink = iUrl + getTopRisersAndFallersLink($);
-            console.log(topRFLink);
 
             let newsAnnMovement = await matchTopRisersWithNews(topRFLink, newsAndAnnouncements);
+            let annPrint = [];
+            newsAnnMovement.forEach(element => annPrint.push(element.print + '\n'));
+            writeFile('Announcements.txt', annPrint.join(''));
             return newsAnnMovement;
         })
         .catch(console.error);
@@ -41,10 +38,11 @@ const matchTopRisersWithNews = async (link, announcements) =>
             let risersArray = risersBody.split('\n');
             let companyRises = [];
             risersArray.forEach(element => {
-                let arr = element.split(/  +/g);
+                let arr = element.split(/   +/g);
                 if (arr[2]) {
+                    let companyName = arr[0].split(/  +/g);
                     companyRises.push({
-                        company: arr[0].trim(),
+                        company: companyName[0].trim(),
                         movement: arr[2].trim(),
                     });
                 }
@@ -55,7 +53,11 @@ const matchTopRisersWithNews = async (link, announcements) =>
                     if ((company.company == ann.company) || (ann.company.startsWith(company.company))) {
                         ann.movement = company.movement;
                     }
-                    ann.print = `Company: ${ann.company}, Announcement: ${ann.announcement}, Movement: ${ann.movement}`;
+                    ann.print = `Company: ${ann.company}, Announcement: ${ann.announcement}, `;
+                    if (ann.news !== 'N/A')
+                        ann.print = ann.print + `News: ${ann.news}, `
+                    if (ann.movement !== 'N/A')
+                        ann.print = ann.print + `Movement: ${ann.movement}`;
                 });
             });
 
@@ -97,7 +99,6 @@ const getAnnouncementsArray = ($, annTable) => {
                 movement: 'N/A',
                 print: `Company: ${company}, Announcement: ${annmt}`,
             });
-            console.log(annmt);
         }
     });
 
@@ -109,8 +110,9 @@ const matchNewsWithAnnouncements = async (announcements) => {
     announcements.forEach(annElement => {
         news.forEach(newsElement => {
             let company = annElement.company.replace(/\([^()]*\)/g, '').trim();
-            if (newsElement.includes(company)) {
-                console.log('I found a news match!');
+            let companyFirstWord = annElement.company.split(' ')[0];
+            if (newsElement.includes(company) || newsElement.includes(companyFirstWord)) {
+                console.log(`I found a news match! ${newsElement} WITH ${company} OR ${companyFirstWord}`);
                 annElement.news = newsElement;
                 annElement.print = annElement.print + `, News: ${newsElement}`;
             }

@@ -1,3 +1,17 @@
+Company: Argos Resources Ltd (ARG), Announcement: Second Price Monitoring Extn, Movement: +66.67%
+Company: Argos Resources Ltd (ARG), Announcement: Price Monitoring Extension, Movement: +66.67%
+Company: Aston Martin Lagonda (AML), Announcement: Trading Statement - Clarification, News: Aston Martin warns on profits after 'disappointing' year, Movement: -16.64%
+Company: Aston Martin Lagonda (AML), Announcement: Trading Statement, News: Aston Martin warns on profits after 'disappointing' year, Movement: -16.64%
+Company: Lekoil Limited (LEK), Announcement: Holding(s) in Company, Movement: -13.24%
+Company: Man Group plc (EMG), Announcement: Transaction in Own Shares, Movement: -2.85%
+Company: Man Group plc (EMG), Announcement: Man Group PLC : Form 8.3 - Centamin PLC, Movement: -2.85%
+Company: Man Group plc (EMG), Announcement: Transaction in Own Shares, Movement: -2.85%
+Company: Plus500 Ltd (PLUS), Announcement: Transaction in Own Shares, Movement: +4.06%
+Company: Premier Oil PLC (PMO), Announcement: Proposed UK North Sea Acquisitions, Movement: +13.90%
+Company: Premier Oil PLC (PMO), Announcement: Trading and Operations Update, Movement: +13.90%
+
+
+
 Company: 3i Group PLC (III), Announcement: Portfolio Update, 
 Company: 3i Infrastructure (3IN), Announcement: Portfolio Update, 
 Company: 888 Holdings plc (888), Announcement: Post Close Trading Update, 
@@ -32,14 +46,10 @@ Company: Angus Energy PLC (ANGS), Announcement: Repayment of former Director's L
 Company: Appian Corporation, Announcement: Appian Acquires Robotic Process Automation (RPA) Company, 
 Company: AQR Capital Mgmt, Announcement: Form 8.3 - ENDEAVOUR MINING CORPORATION, 
 Company: Arena Events Group (ARE), Announcement: Holding(s) in Company, 
-Company: Argos Resources Ltd (ARG), Announcement: Second Price Monitoring Extn, Movement: +66.67%
-Company: Argos Resources Ltd (ARG), Announcement: Price Monitoring Extension, Movement: +66.67%
 Company: Armadale Capital Plc (ACP), Announcement: Appointment of Non-executive Director, 
 Company: ASA Intnl. Grp PLC (ASAI), Announcement: ASA Pakistan receives NOC for MFB license, 
 Company: Ashoka India Equity (AIE), Announcement: Block Listing Application, 
 Company: Ashtead Group PLC (AHT), Announcement: Transaction in Own Shares, 
-Company: Aston Martin Lagonda (AML), Announcement: Trading Statement - Clarification, News: Aston Martin warns on profits after 'disappointing' year, Movement: -16.64%
-Company: Aston Martin Lagonda (AML), Announcement: Trading Statement, News: Aston Martin warns on profits after 'disappointing' year, Movement: -16.64%
 Company: Atico Mining Corporation, Announcement: Atico Mining Repays First Debenture Group Holders, 
 Company: Atos International, Announcement: Atos empowers researchers at the University of Luxembourg with its BullSequana XH2000 supercomputer, 
 Company: Aura Energy Limited (AURA), Announcement: Result of Meeting, 
@@ -380,7 +390,6 @@ Company: Legal&Gen Inv Mgmnt, Announcement: Form 8.3 - Proactis Holdings Plc,
 Company: Legal&Gen Inv Mgmnt, Announcement: Form 8.3 - Just Eat Plc, 
 Company: Legal&Gen Inv Mgmnt, Announcement: Form 8.3 - Centamin Plc, 
 Company: Legg Mason, Inc., Announcement: Form 8.3 - Allergan PLC, 
-Company: Lekoil Limited (LEK), Announcement: Holding(s) in Company, Movement: -13.24%
 Company: Linde plc, Announcement: Release of a capital market information, 
 Company: Liontrust Asset Mgmt (LIO), Announcement: Director/PDMR Shareholding, 
 Company: Liontrust Asset Mgmt (LIO), Announcement: Form 8.3 - REDDE PLC, 
@@ -390,9 +399,6 @@ Company: M&C Saatchi PLC (SAA), Announcement: Price Monitoring Extension,
 Company: M&G Inv Management, Announcement: Form 8.3 - Avation Plc, 
 Company: Magna International Inc., Announcement: 2020 Outlook Conference Call, 
 Company: Maitland Institutional Service (Mait), Announcement: Form 8.3 - Proactis Holdings plc, 
-Company: Man Group plc (EMG), Announcement: Transaction in Own Shares, Movement: -2.85%
-Company: Man Group plc (EMG), Announcement: Man Group PLC : Form 8.3 - Centamin PLC, Movement: -2.85%
-Company: Man Group plc (EMG), Announcement: Transaction in Own Shares, Movement: -2.85%
 Company: Manikay Partners, LLC (JE.), Announcement: Form 8.3 - Just Eat plc, 
 Company: Marathon Asset Manag (JE.), Announcement: Form 8.3 - Just Eat plc, 
 Company: Massachusetts Financial (COB), Announcement: Form 8.3 - COBHAM PLC, 
@@ -493,13 +499,10 @@ Company: Perpetual Inc&Growth (PLI), Announcement: Transaction in Own Shares,
 Company: Pershing Square Hldg (PSH), Announcement: Pershing Square Holdings, Ltd. Announces Transactions in Own Shares, 
 Company: Personal Assets Tst. (PNL), Announcement: Issue of Equity, 
 Company: Petrofac Limited (PFC), Announcement: Director/PDMR Shareholding, 
-Company: Plus500 Ltd (PLUS), Announcement: Transaction in Own Shares, Movement: +4.06%
 Company: Pollen Street Sec. (PSSL), Announcement: Transaction in Own Shares and Total Voting Rights, 
 Company: Polygon Glbl Prtnrs, Announcement: Form 8.3 - Endeavour Mining Corporation, 
 Company: Premier Global Inf (PGIT), Announcement: Portfolio Update, 
 Company: Premier Miton Group Plc (PMI), Announcement: Form 8.3 - Charles Taylor plc, 
-Company: Premier Oil PLC (PMO), Announcement: Proposed UK North Sea Acquisitions, Movement: +13.90%
-Company: Premier Oil PLC (PMO), Announcement: Trading and Operations Update, Movement: +13.90%
 Company: President Energy PLC (PPC), Announcement: Second Price Monitoring Extn, 
 Company: President Energy PLC (PPC), Announcement: Price Monitoring Extension, 
 Company: Prospex Oil and Gas (PXOG), Announcement: Key Environmental Approval for Italian Gas Field, 

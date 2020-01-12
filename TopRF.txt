@@ -1,0 +1,63 @@
+
+		FTSE 100
+NMC Health                              1329.00       +5.69%
+Vodafone Group                           151.60       +2.78%
+London Stock Exchange Group             7727.00       +2.45%
+easyJet                                 1441.50       +2.42%
+Rolls-Royce Group                        681.60       +2.40%
+Ocado Group                             1297.50       -2.74%
+Kingfisher                               219.60       -1.96%
+Land Securities Group                    963.10       -1.60%
+British Land Co                          594.20       -1.43%
+Next                                    6808.00       -1.42%
+
+FTSE 250
+Galliford Try                            150.78       +4.65%
+Kainos Group                             773.00       +4.18%
+Games Workshop Group                    6532.50       +3.86%
+Avast                                    495.00       +3.51%
+Mitchells & Butlers                      434.25       +3.02%
+SIG                                       94.18      -20.99%
+Marks & Spencer Group                    195.18      -10.71%
+Barr (A G)                               525.00       -7.41%
+Ferrexpo                                 148.03       -5.29%
+Computacenter                           1672.50       -4.81%
+
+FTSE 350
+NMC Health                              1329.00       +5.69%
+Galliford Try                            150.78       +4.65%
+Kainos Group                             773.00       +4.18%
+Games Workshop Group                    6532.50       +3.86%
+Avast                                    495.00       +3.51%
+SIG                                       94.18      -20.99%
+Marks & Spencer Group                    195.18      -10.71%
+Barr (A G)                               525.00       -7.41%
+Ferrexpo                                 148.03       -5.29%
+Computacenter                           1672.50       -4.81%
+
+AIM
+Prairie Mining                            13.75      +27.91%
+Equatorial Palm Oil                        0.82      +26.92%
+Tiziana Life Sciences                     52.00      +26.83%
+Europa Metals  Ord Npv Di                  0.03      +21.95%
+JKX Oil & Gas                             29.30      +21.58%
+Cloudbuy                                   0.88      -60.23%
+Webis Holdings                             1.70      -32.00%
+Maintel Holdings                         283.00      -30.47%
+Midatech Pharma                            3.30      -17.50%
+Verditek                                   2.95      -16.90%
+
+Overall Market
+Prairie Mining                            13.75      +27.91%
+Equatorial Palm Oil                        0.82      +26.92%
+Tiziana Life Sciences                     52.00      +26.83%
+Europa Metals  Ord Npv Di                  0.03      +21.95%
+JKX Oil & Gas                             29.30      +21.58%
+Cloudbuy                                   0.88      -60.23%
+Webis Holdings                             1.70      -32.00%
+Golden Prospect Precious Metals Lim        2.60      -30.67%
+Maintel Holdings                         283.00      -30.47%
+Card Factory                              99.70      -28.84%
+
+
+	

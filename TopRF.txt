@@ -1,63 +1,63 @@
 
 		FTSE 100
-NMC Health                              1329.00       +5.69%
-Vodafone Group                           151.60       +2.78%
-London Stock Exchange Group             7727.00       +2.45%
-easyJet                                 1441.50       +2.42%
-Rolls-Royce Group                        681.60       +2.40%
-Ocado Group                             1297.50       -2.74%
-Kingfisher                               219.60       -1.96%
-Land Securities Group                    963.10       -1.60%
-British Land Co                          594.20       -1.43%
-Next                                    6808.00       -1.42%
+easyJet                                 1521.50       +4.93%
+Legal & General Group                    308.55       +2.10%
+Melrose                                  242.40       +1.89%
+Hargreaves Lansdown                     1801.00       +1.35%
+Auto Trader Group                        591.20       +1.30%
+Evraz                                    401.80       -5.73%
+InterContinental Hotels Group           4943.75       -3.93%
+Informa                                  827.50       -3.49%
+International Consolidated Airlines      635.90       -3.24%
+Antofagasta                              954.40       -2.23%
 
 FTSE 250
-Galliford Try                            150.78       +4.65%
-Kainos Group                             773.00       +4.18%
-Games Workshop Group                    6532.50       +3.86%
-Avast                                    495.00       +3.51%
-Mitchells & Butlers                      434.25       +3.02%
-SIG                                       94.18      -20.99%
-Marks & Spencer Group                    195.18      -10.71%
-Barr (A G)                               525.00       -7.41%
-Ferrexpo                                 148.03       -5.29%
-Computacenter                           1672.50       -4.81%
+Dixons Carphone                          150.25       +5.48%
+Quilter  Ord Gbp0.07                     162.43       +4.36%
+SSP Group                                685.50       +3.24%
+Avast                                    537.25       +2.72%
+Pets At Home Group                       287.60       +2.64%
+Vesuvius                                 453.40       -3.49%
+John Wood Group                          390.70       -3.29%
+Fidelity China Special Situations        244.75       -3.26%
+NewRiver Retail                          187.50       -3.05%
+RHI Magnesita NV                        3591.00       -3.00%
 
 FTSE 350
-NMC Health                              1329.00       +5.69%
-Galliford Try                            150.78       +4.65%
-Kainos Group                             773.00       +4.18%
-Games Workshop Group                    6532.50       +3.86%
-Avast                                    495.00       +3.51%
-SIG                                       94.18      -20.99%
-Marks & Spencer Group                    195.18      -10.71%
-Barr (A G)                               525.00       -7.41%
-Ferrexpo                                 148.03       -5.29%
-Computacenter                           1672.50       -4.81%
+Dixons Carphone                          150.25       +5.48%
+easyJet                                 1521.50       +4.93%
+Quilter  Ord Gbp0.07                     162.43       +4.36%
+SSP Group                                685.50       +3.24%
+Avast                                    537.25       +2.72%
+Evraz                                    401.80       -5.73%
+InterContinental Hotels Group           4943.75       -3.93%
+Vesuvius                                 453.40       -3.49%
+Informa                                  827.50       -3.49%
+John Wood Group                          390.70       -3.29%
 
 AIM
-Prairie Mining                            13.75      +27.91%
-Equatorial Palm Oil                        0.82      +26.92%
-Tiziana Life Sciences                     52.00      +26.83%
-Europa Metals  Ord Npv Di                  0.03      +21.95%
-JKX Oil & Gas                             29.30      +21.58%
-Cloudbuy                                   0.88      -60.23%
-Webis Holdings                             1.70      -32.00%
-Maintel Holdings                         283.00      -30.47%
-Midatech Pharma                            3.30      -17.50%
-Verditek                                   2.95      -16.90%
+Wishbone Gold                              1.95    +9412.20%
+7digital Group                             0.20      +24.24%
+Rockfire Resources  Ord 0.1p               1.23      +13.95%
+N4 Pharma  Ord 0.4p                        3.75      +13.64%
+Learning Technologies Group              156.20      +13.52%
+Andalas Energy & Power                     0.12      -22.58%
+Cloudbuy                                   0.35      -17.65%
+Sosandar                                  22.25      -15.24%
+Red Emperor Resources                      0.65      -13.33%
+Plutus Powergen                            0.09      -11.90%
 
 Overall Market
-Prairie Mining                            13.75      +27.91%
-Equatorial Palm Oil                        0.82      +26.92%
-Tiziana Life Sciences                     52.00      +26.83%
-Europa Metals  Ord Npv Di                  0.03      +21.95%
-JKX Oil & Gas                             29.30      +21.58%
-Cloudbuy                                   0.88      -60.23%
-Webis Holdings                             1.70      -32.00%
-Golden Prospect Precious Metals Lim        2.60      -30.67%
-Maintel Holdings                         283.00      -30.47%
-Card Factory                              99.70      -28.84%
+Wishbone Gold                              1.95    +9412.20%
+7digital Group                             0.20      +24.24%
+Rockfire Resources  Ord 0.1p               1.23      +13.95%
+N4 Pharma  Ord 0.4p                        3.75      +13.64%
+Learning Technologies Group              156.20      +13.52%
+Andalas Energy & Power                     0.12      -22.58%
+Cloudbuy                                   0.35      -17.65%
+Sosandar                                  22.25      -15.24%
+Red Emperor Resources                      0.65      -13.33%
+Tencent Holdings  Tencent Holdings        45.80      -13.01%
 
 
 	

@@ -1,5 +1,15 @@
-Company: 4basebio AG, Announcement: 4basebio AG decides to buy back 2 million treasury shares for further use in accordance with the authorizing resolution, 
 Company: 7digital Group PLC (7DIG), Announcement: Trading Update, News: 7digital surges following update on 'year of transformation', Movement: +24.24%
+Company: Antofagasta PLC (ANTO), Announcement: Director Declaration, Movement: -2.23%
+Company: Dixons Carphone PLC (DC.), Announcement: 2019/20 Peak Trading Statement - Replacement, News: Dixons Carphone reports mixed performance over festive period, Movement: +5.48%
+Company: Dixons Carphone PLC (DC.), Announcement: 2019/20 Peak Trading Statement, News: Dixons Carphone reports mixed performance over festive period, Movement: +5.48%
+Company: easyJet PLC (EZJ), Announcement: Q1 Trading Statement, Movement: +4.93%
+Company: Quilter PLC (QLT), Announcement: Form 8.3 - Accesso Technology Group PLC, Movement: +4.36%
+Company: SSP Group PLC (SSPG), Announcement: First Quarter Trading Update, Movement: +3.24%
+Company: Wishbone Gold PLC (WSBN), Announcement: Capital Reorganisation, Movement: +9412.20%
+
+
+
+Company: 4basebio AG, Announcement: 4basebio AG decides to buy back 2 million treasury shares for further use in accordance with the authorizing resolution, 
 Company: AA Bond Co Limited (IRSH), Announcement: Proposed Exchange offer, 
 Company: AA PLC (AA.), Announcement: Proposed Exchange Offer, 
 Company: AA PLC (AA.), Announcement: Director Declaration, 
@@ -22,7 +32,6 @@ Company: Andalas Energy & Pwr (ADL), Announcement: Half-year Report,
 Company: Anglo African O&G (AAOG), Announcement: Put and Call Option with Zenith, 
 Company: Anglo African O&G (AAOG), Announcement: Holding(s) in Company, 
 Company: Anglo American PLC (AAL), Announcement: Share Buyback, 
-Company: Antofagasta PLC (ANTO), Announcement: Director Declaration, Movement: -2.23%
 Company: AorTech Inter PLC (AOR), Announcement: Extension to Agreement with RUA Medical, 
 Company: Arcadis N.V., Announcement: Arcadis Acquires Over Morgen, a Dutch Consultancy, 
 Company: Ares XXXIV CLO Ltd (IRSH), Announcement: Notice to Noteholders, 
@@ -141,12 +150,9 @@ Company: DFS Furniture PLC (DFS), Announcement: Transaction in Own Shares,
 Company: DIC Asset AG, Announcement: Release according to Article 41 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution, 
 Company: DIC Asset AG, Announcement: DIC Asset AG successfully completes capital increase from authorized capital, 
 Company: Diversified Gas &Oil (DGOC), Announcement: Transaction in Own Shares, 
-Company: Dixons Carphone PLC (DC.), Announcement: 2019/20 Peak Trading Statement - Replacement, News: Dixons Carphone reports mixed performance over festive period, Movement: +5.48%
-Company: Dixons Carphone PLC (DC.), Announcement: 2019/20 Peak Trading Statement, News: Dixons Carphone reports mixed performance over festive period, Movement: +5.48%
 Company: dotDigital Group plc (DOTD), Announcement: Trading Update and Notice of Half Year Results, 
 Company: DoubleVerify, Announcement: DoubleVerify Announces The First Programmatic Platform Certification Program  for Comprehensive Connected TV Fraud Protection, 
 Company: Dunedin Inc.Growth (DIG), Announcement: Kepler Trust Intelligence: New Research, 
-Company: easyJet PLC (EZJ), Announcement: Q1 Trading Statement, Movement: +4.93%
 Company: Edinburgh Worldwide (EWI), Announcement: Issue of Equity, News: Cambria buys Aston Martin and Rolls-Royce dealerships in Edinburgh, 
 Company: EDP-EnergiasPortugal (IRSH), Announcement: Results of the Tender Offer, 
 Company: Egdon Resources PLC (EDR), Announcement: P1929 and P2304 Farm-In Agreement with Shell U.K., 
@@ -425,7 +431,6 @@ Company: Proton Motor Power (PPS), Announcement: Director/PDMR Shareholding,
 Company: Proven Growth & Inc. (PGOO), Announcement: ProVen Growth and Income VCT plc: Interim Management Statement, 
 Company: Proven VCT plc (PVN), Announcement: ProVen VCT plc: Interim Management Statement, 
 Company: QNB Finance Ltd (15IG), Announcement: Publication of Final Terms (ISIN: XS2103204827), 
-Company: Quilter PLC (QLT), Announcement: Form 8.3 - Accesso Technology Group PLC, Movement: +4.36%
 Company: RBC Europe Ltd, Announcement: Stabilisation Notice, 
 Company: Red Emperor Resource (RMP), Announcement: Second Price Monitoring Extn, 
 Company: Red Emperor Resource (RMP), Announcement: Price Monitoring Extension, 
@@ -478,7 +483,6 @@ Company: Societe Generale SA, Announcement: Stabilisation Notice - GFH,
 Company: Sodexo, Announcement: Sodexo: Annual Shareholders’ Meeting of January 21, 2020, 
 Company: Sophos Group Plc (SOPH), Announcement: Holding(s) in Company, 
 Company: Spinnaker Opports (SOP), Announcement: Update on Medicinal Cannabis RTO, 
-Company: SSP Group PLC (SSPG), Announcement: First Quarter Trading Update, Movement: +3.24%
 Company: Standard Life Aberdn (SLA), Announcement: Form 8.3 - Hansteen Holdings plc, 
 Company: Stock Exch Notice, Announcement: Admission to Trading - 21/01/2020, 
 Company: Sureserve Group PLC (SUR), Announcement: Preliminary Results, 
@@ -542,7 +546,6 @@ Company: WisdomTree Comm Sec (AIGA), Announcement: Issue of WisdomTree Commodity
 Company: WisdomTree Frgn Exch, Announcement: Issue of WisdomTree Foreign Exchange Limited, 
 Company: WisdomTree Hdg Cm Se, Announcement: Issue of WisdomTree Hedged Commodity Secs Limited, 
 Company: WisdomTree Phy Plat (PHPT), Announcement: Issue of WisdomTree Metal Securities Limited, 
-Company: Wishbone Gold PLC (WSBN), Announcement: Capital Reorganisation, Movement: +9412.20%
 Company: Witan Inv Tst PLC (WTAN), Announcement: Transaction in Own Shares, 
 Company: Witan Pacific InvTst (WPC), Announcement: Transaction in Own Shares, 
 Company: Workspace Grp PLC (WKP), Announcement: Appointment of Non-Executive Director, 

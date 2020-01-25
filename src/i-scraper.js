@@ -23,6 +23,7 @@ const getEndOfDayResults = async () =>
             let annPrint = [];
             newsAnnMovement.forEach(element => annPrint.push(element.print + '\n'));
             writeFile('Announcements.txt', annPrint.join(''));
+            newsAnnMovement.sort((a, b) => a.movement.localeCompare(b.movement));
             return newsAnnMovement;
         })
         .catch(console.error);

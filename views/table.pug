@@ -1,0 +1,15 @@
+extends default
+
+block content
+  table(style='width:100%', border='1')
+    tr
+      th Company
+      th Announcement
+      th News
+      th Movement
+    each result in results
+      tr
+        td #{result.company}
+        td #{result.announcement}
+        td #{result.news}
+        td #{result.movement}
